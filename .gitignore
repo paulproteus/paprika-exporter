@@ -17,8 +17,8 @@ docs/_static/
 docs/_templates/
 AUTHORS
 _data/.DS_Store
-_data/recipes.yaml
-_data/recipes_status.json
-recipes.yaml
-recipes_nutrition.yaml
-assets/images/recipes/*.*
+#_data/recipes.yaml
+#_data/recipes_status.json
+#recipes.yaml
+#recipes_nutrition.yaml
+#assets/images/recipes/*.*
