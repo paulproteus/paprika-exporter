@@ -34,7 +34,6 @@ jobs:
 
       - name: setup git config
         id: get_data
-        if: false #disables commit as data does not need to be saved during testing
         run: |
           git config --local user.name ${{ secrets.USERNAME_GITHUB }}
           git config --local user.email ${{ secrets.EMAIL }}
@@ -49,7 +48,7 @@ jobs:
 
       - name: Push changes
         #remove false && to enable push *only* when there is new data
-        if: false || steps.get_data.outputs.status != 'Nothing to update' #disables this step
+        if: steps.get_data.outputs.status != 'Nothing to update' #disables this step
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.REPO_TOKEN }}
