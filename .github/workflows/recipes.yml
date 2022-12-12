@@ -52,5 +52,5 @@ jobs:
         if: false || steps.get_data.outputs.status != 'Nothing to update' #disables this step
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.REPO_TOKEN }}
           branch: ${{ github.ref }}
