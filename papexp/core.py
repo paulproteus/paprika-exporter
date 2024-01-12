@@ -122,8 +122,8 @@ def export_recipes():
     data = res.read()
     photos = json.loads(data)['result']
     print("\n\n")
-    print("Photos")
-    for item in json.loads(data)['result']:
+    print("Skipping photos")
+    for item in []: # json.loads(data)['result']:
         c.request('GET', '/api/v1/sync/photo/'+item['uid']+'/', headers=headers)
         res = c.getresponse()
         data = res.read()
