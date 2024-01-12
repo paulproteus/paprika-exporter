@@ -1,3 +1,84 @@
+- categories: []
+  cook_time: 3 hrs 15 mins
+  created: '2023-11-03 18:10:58'
+  description: ''
+  difficulty: ''
+  directions:
+  - Oven Instructions
+  - Preheat the oven to 400 degrees Fahrenheit (200 degrees Celsius)
+  - Cut the brisket into approximately 1 inch sized cubes and season with salt and
+    pepper
+  - Place the oil in a large dutch oven/oven proof pot and once hot, work in batches
+    searing the cubes of brisket on all sides. Once seared put the beef on a plate
+    and set aside.
+  - "Next add the garlic, onions and peppers to the pan and saut\xE9 for 5 minutes\
+    \ until the onions become translucent. Add in the remaining ingredients including\
+    \ the black beans and cooked beef and place the pot in the oven to cook for 3\
+    \ hours."
+  - After 3 hours, remove a piece of beef from the pot and test to see if its tender.
+    It should easily shred with a fork. If cooked remove all of the beef from the
+    pot and shred into pieces using 2 forks. Return the shredded brisket to the pot
+    and stir.
+  - Serve the chili with any toppings of choice.
+  - Slow Cooker Instructions
+  - Cut the brisket into approximately 1 inch sized cubes and season with salt and
+    pepper
+  - Turn the slow cooker on sear/saute and add in the oil. Once hot, work in batches
+    searing the cubes of brisket on all sides. Once seared put the beef on a plate
+    and set aside.
+  - "Next add the garlic, onions and peppers to the pot and saut\xE9 for 5 minutes\
+    \ until the onions become translucent. Add in the remaining ingredients including\
+    \ the cubed butternut squash, black beans and cooked beef and cook for 8 hours\
+    \ on low or 4 hours on high."
+  - Once done cooking, remove a piece of beef from the pot and test to see if its
+    tender (it should easily shred with a fork). If cooked, remove all of the beef
+    from the pot and shred into pieces using 2 forks. Return the shredded brisket
+    to the pot and stir.
+  - Serve the chili with any toppings of choice.
+  image_url: null
+  in_trash: false
+  ingredients:
+  - 2 pounds brisket
+  - 1 tbsp oil
+  - 1/2 tsp salt
+  - 1/2 tsp pepper
+  - 4 cloves garlic finely chopped
+  - 4 yellow onions chopped
+  - 2 green bell peppers chopped
+  - 2 red bell peppers (or orange/yellow peppers)
+  - 3 tbsp cumin
+  - 2 tsp coriander
+  - 2 tsp paprika
+  - 2 tsp chipotle chili powder (use 1 tsp chipotle chili powder if you prefer less
+    spice)
+  - 1 tsp cinnamon
+  - 1 1/2 cups beef stock
+  - 2 tbsp tomato paste
+  - 1 (28oz can) can chopped tomatoes
+  - 2 cups cubed butternut squash
+  - 1 (14-oz) can black beans (omit for Paleo/Whole30)*
+  - Optional Toppings
+  - guacamole or diced avocado
+  - fresh salsa
+  - spring onions
+  - "sliced jalape\xF1os"
+  - chopped tomatoes
+  is_pinned: false
+  name: Brisket Butternut Squash Chili
+  notes: ''
+  nutritional_info: 'Calories: 432kcal | Carbohydrates: 24g | Protein: 28g | Fat:
+    10g | Sodium: 377mg | Fiber: 5g | Sugar: 10g'
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: 20 mins
+  rating: 0
+  scale: null
+  servings: ''
+  source: everylastbite.com
+  source_url: https://www.everylastbite.com/wprm_print/10706
+  total_time: ''
+  uid: 03134381-8CAC-4E77-B36B-A345DF4E0C2D
 - categories:
   - Untested
   cook_time: 0 mins
@@ -27,7 +108,7 @@
     up to a week. Reheat to serve.
   - Serve, garnished with cilantro, chopped onions, scallions, avocado, lime wedges,
     and warm tortillas as desired.
-  image_url: images/recipes/A319EBA8-F029-47BD-9C8A-103621F1605F.jpg
+  image_url: https://www.seriouseats.com/thmb/NGvPYQ_GxPxP_4XtNR22-sLir5A=/880x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__02__20140202-vegan-sweet-potato-chili-beans-recipe-16-65cb20ca26ad408b8f2a1a6ce3d70a4d.jpg
   in_trash: false
   ingredients:
   - "3 whole sweet dried chiles like Coste\xF1o, New Mexico, or Choricero, stems and\
@@ -136,7 +217,7 @@
   - Add more stock or water if the mixture becomes dry and thick.
   - Taste and adjust seasonings with salt, pepper, and Creole seasoning if needed.
     Serve over rice and garnish with chopped green onion.
-  image_url: images/recipes/419A3CD6-372F-46B9-8BEB-F80E59A67CA5.jpg
+  image_url: https://www.africanbites.com/wp-content/uploads/2017/12/IMG_7894-2-483x600.jpg
   in_trash: false
   ingredients:
   - 1 pound (453g) black-eyed peas
@@ -164,8 +245,7 @@
     A: 4173IU (83%)| Vitamin C: 32mg (39%)| Calcium: 227mg (23%)| Iron: 3mg (17%)'
   on_favorites: true
   on_grocery_list: false
-  photos:
-  - '1': images/recipes/1EC8EF3F-F9B6-43D5-B0ED-7E0D4A34B332.jpg
+  photos: []
   prep_time: 2 hrs
   rating: 5
   scale: null
@@ -195,7 +275,7 @@
   - Chicken Thighs
   - "Don\u2019t chop them too small. Cutting each thigh into 2-3 pieces usually is\
     \ about the right size."
-  image_url: images/recipes/BB23E300-319C-4B3B-94A3-BFF1179B6B82.jpg
+  image_url: https://www.slowcookerclub.com/wp-content/uploads/2020/07/slow-cooker-chicken-bhuna-12-360x360.jpg.webp
   in_trash: false
   ingredients:
   - 500 g (1 lb) chicken thighs cut into thirds
@@ -279,7 +359,7 @@
     with salt and pepper and serve garnished with chives, if desired.
   - You can make this soup vegetarian by using vegetable stock in place of chicken
     stock and omitting the sausage.
-  image_url: images/recipes/D6C0A227-184A-4E42-BFD0-F6AEE5904C2A.jpg
+  image_url: https://www.seriouseats.com/thmb/cFY24nU73Rw2OMfe7sv0lcgrHeg=/880x0/filters:no_upscale():max_bytes(150000):strip_icc()/caldo-verde-portuguese-potato-kale-soup-recipe-hero-04-80f8258a58694f78a7ad6629ba55f90e.jpg
   in_trash: false
   ingredients:
   - 2 tablespoons (30g) unsalted butter
@@ -412,7 +492,7 @@
     \ from the bones before storing. It\u2019s easier to do when the chicken is warm\
     \ or room temperature versus cold. If you don\u2019t plan to eat it, it\u2019\
     s also easier to remove the chicken skin before you store it."
-  image_url: images/recipes/895CF38E-0EC5-47E2-B291-541151AFD328.jpg
+  image_url: https://www.familyfoodonthetable.com/wp-content/uploads/2021/07/Whole-roasted-chicken-9-150x225.jpg
   in_trash: false
   ingredients:
   - 5 lb. whole chicken, giblets removed (see notes for 6 lb. size)
@@ -429,29 +509,29 @@
   - 1/4 to 1/2 cup water or chicken broth
   is_pinned: false
   name: Easy Whole Roasted Chicken
-  notes: "Chicken: The recipe calls for a 5 lb. whole chicken, but anywhere in the\
-    \ 4.5 to 6.5 lb range is fine. I\u2019ve got notes on adjusting the cook time\
-    \ below.\n\nChicken prep: Make sure to remove the giblets and any innards from\
-    \ the chicken and pat it dry really well. Starting with a dry bird will help it\
-    \ crisp and brown nicely in the oven.\n\nHerbs: Thyme is my go-to herb for stuffing\
-    \ into the cavity, but parsley would work well, too. You could also use a mix\
-    \ of herbs if you like.\n\nButter/oil: I\u2019ve tested this recipe using both\
-    \ melted butter and extra-virgin olive oil. Both work great, so use whichever\
-    \ you prefer.\n\nBasting: It helps to baste the chicken once or twice in the last\
-    \ half-hour of cooking. You don\u2019t need more than that - and you don\u2019\
-    t want to open your oven repeatedly and have the temperature drop. You can even\
-    \ get away with only basting it when you pull it out of the oven, before it sits\
-    \ to rest, if you forget. (I have.)\n\nRest time: Make sure to let the chicken\
-    \ rest for at least 10-15 minutes before carving it. This is crucial to making\
-    \ sure it retains its juices and they don\u2019t run out. As always, I use and\
-    \ recommend using a digital thermometer to ensure your chicken is properly cooked\
-    \ through. It should get to 160 before you remove it from the oven and then it\
-    \ will continue to cook as it rests.\n\nHow to truss a chicken: A simple truss\
-    \ for a baked whole chicken is to tuck the wings in and underneath the chicken\
-    \ so they are secured. And then tie the drumsticks together with a piece of kitchen\
-    \ string so they are held together. That's all you really need to do, but here's\
-    \ a tutorial for a full truss if you're interested.\n\nHow to carve a whole roasted\
-    \ chicken:"
+  notes: "Toaster oven: 425 non-convection. Check at 45 min.\n\nChicken: The recipe\
+    \ calls for a 5 lb. whole chicken, but anywhere in the 4.5 to 6.5 lb range is\
+    \ fine. I\u2019ve got notes on adjusting the cook time below.\n\nChicken prep:\
+    \ Make sure to remove the giblets and any innards from the chicken and pat it\
+    \ dry really well. Starting with a dry bird will help it crisp and brown nicely\
+    \ in the oven.\n\nHerbs: Thyme is my go-to herb for stuffing into the cavity,\
+    \ but parsley would work well, too. You could also use a mix of herbs if you like.\n\
+    \nButter/oil: I\u2019ve tested this recipe using both melted butter and extra-virgin\
+    \ olive oil. Both work great, so use whichever you prefer.\n\nBasting: It helps\
+    \ to baste the chicken once or twice in the last half-hour of cooking. You don\u2019\
+    t need more than that - and you don\u2019t want to open your oven repeatedly and\
+    \ have the temperature drop. You can even get away with only basting it when you\
+    \ pull it out of the oven, before it sits to rest, if you forget. (I have.)\n\n\
+    Rest time: Make sure to let the chicken rest for at least 10-15 minutes before\
+    \ carving it. This is crucial to making sure it retains its juices and they don\u2019\
+    t run out. As always, I use and recommend using a digital thermometer to ensure\
+    \ your chicken is properly cooked through. It should get to 160 before you remove\
+    \ it from the oven and then it will continue to cook as it rests.\n\nHow to truss\
+    \ a chicken: A simple truss for a baked whole chicken is to tuck the wings in\
+    \ and underneath the chicken so they are secured. And then tie the drumsticks\
+    \ together with a piece of kitchen string so they are held together. That's all\
+    \ you really need to do, but here's a tutorial for a full truss if you're interested.\n\
+    \nHow to carve a whole roasted chicken:"
   nutritional_info: 'TOTAL FAT: 22g SATURATED FAT: 6g
 
     TRANS FAT: 0g UNSATURATED FAT: 11g
@@ -461,7 +541,7 @@
     CARBOHYDRATES: 7g FIBER: 2g SUGAR: 3g
 
     PROTEIN: 104g'
-  on_favorites: true
+  on_favorites: false
   on_grocery_list: false
   photos: []
   prep_time: 15 minutes
@@ -486,7 +566,7 @@
     and toss to coat. Cool slightly. Refrigerate, covered, until cold, about 1 hour.
   - To serve, add arugula, tomatoes, green onions and bacon to potatoes; toss gently
     to combine. Sprinkle with cheese and chives. Serve immediately.
-  image_url: images/recipes/6D098C24-BAAC-40E4-BB81-EE451D4F0700.jpg
+  image_url: https://www.tasteofhome.com/wp-content/uploads/2018/01/exps165343_SD163614C12_03_6b-3.jpg?fit=700,1024
   in_trash: false
   ingredients:
   - 2 pounds fingerling or small red potatoes, cut into 1-inch pieces
@@ -547,7 +627,7 @@
     \ until well coated. Sprinkle sesame seeds on top."
   - Top each tortilla with cabbage slaw. Spoon the tofu over the slaw and top with
     the pickled cucumbers. Serve.
-  image_url: images/recipes/4244C129-84B9-4D6D-A0B6-692F8278BCBD.jpg
+  image_url: https://www.seriouseats.com/thmb/anj-a06iQizPqSlfWLBaOnLHDRU=/880x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2018__03__20180328-korean-crispy-tofu-tacos-main-morgan-eisenberg-7412cdc7c6f041e6bd4e45e0c3bdf215.jpg
   in_trash: false
   ingredients:
   - One 16-ounce block extra-firm tofu
@@ -626,6 +706,67 @@
   uid: 1760D8E8-67AE-44D7-B557-744DD4363235
 - categories: []
   cook_time: ''
+  created: '2023-07-19 16:18:46'
+  description: ''
+  difficulty: ''
+  directions:
+  - Take chicken pieces in a bowl. Add salt, ginger-garlic paste, 3-4 green chillies,
+    chopped mint, chopped coriander, 2-3 green cardamoms, 3-4 cloves, 5-6 peppercorns,
+    yogurt and chilli powder and mix well. Set aside to marinate for 1 hour.
+  - "Heat ghee to 300F in a non-stick pan. Add remaining cloves, cinnamon, remaining\
+    \ peppercorns, remaining green cardamoms, bay leaves and remaining green chillies,\
+    \ mix and saut\xE9 till fragrant."
+  - "Add onions, mix (350F) and saut\xE9 till golden. Add the chicken along with the\
+    \ marinade, mix well and cook on 300F (\"high heat\") for 4-5 minutes. "
+  - Add rice and salt and mix lightly. Add 3 cups water, mix well, cover and cook
+    at 212F till the rice and chicken are fully done.
+  - 'Serve hot garnished with a coriander sprig. '
+  - 'Preparation Time: 60-70minutes'
+  - Cooking Time:15-20 minutes
+  image_url: null
+  in_trash: false
+  ingredients:
+  - A1
+  - "300g (f.k.a. 1\xBD cups) Basmati rice, soaked and drained"
+  - A2
+  - 500 grams chicken on bone, cut into pieces
+  - Salt to taste
+  - 3 green cardamoms
+  - 2 tsp ginger
+  - 2 tsp garlic
+  - 3 green chillies, slit
+  - "\xBD tablespoon chopped mint leaves"
+  - "\xBD tablespoon chopped fresh coriander leaves"
+  - "\xBE teaspoon red chilli powder"
+  - "\xBD cup yogurt"
+  - 6 black peppercorns
+  - B
+  - 2 tablespoons ghee
+  - C
+  - 3-4 pieces of cloves
+  - 1 inch cinnamon stick
+  - 6 black peppercorns
+  - 1-2 bay leaves
+  - 3 green chillies, slit
+  - D
+  - 2 medium onions, sliced
+  is_pinned: false
+  name: Chicken pulao
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: ''
+  rating: 0
+  scale: null
+  servings: ''
+  source: ''
+  source_url: https://www.youtube.com/watch?v=hsuYEc-jZx4&t=123s
+  total_time: ''
+  uid: 1AEA3C11-44B1-4AB7-B2E6-737A08C37ED3
+- categories: []
+  cook_time: ''
   created: '2022-09-03 21:51:04'
   description: 'Soak lentils for an hour, then drain and optionally store in fridge
     overnight.
@@ -693,7 +834,7 @@
   - Place the chicken back in the dish skin side up and cook until the chicken skin
     is browned and the vegetables are roasted and tender, about 30 to 35 minutes more.
     Optional, broil 2 to 3 minutes for crisper skin.
-  image_url: images/recipes/7C9FA2CF-F69B-40A0-94B6-578C3B51462A.jpg
+  image_url: https://www.skinnytaste.com/wp-content/uploads/2019/11/Chicken-Thighs-with-Brussels-and-Sweet-Potato-1-4-150x225.jpg
   in_trash: false
   ingredients:
   - olive oil spray
@@ -726,6 +867,36 @@
   total_time: ''
   uid: 2853D58F-75F1-410F-B578-985977B06756
 - categories: []
+  cook_time: ''
+  created: '2024-01-01 22:22:24'
+  description: ''
+  difficulty: ''
+  directions:
+  - Use marinara sauce recipe.
+  - Cook the noodles minus 2 minutes.
+  - 2 oz dry noodles per meal. Cook 4-5 oz noods.
+  - Dice sausage and throw it in with tomatoes after they cook down a bot.
+  - Kale - sautee in sausage grease. Or could putit in sauce.
+  - 'Sautee kale and toss in sauce. '
+  image_url: null
+  in_trash: false
+  ingredients: ''
+  is_pinned: false
+  name: Pasta And Sausage And Kale
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: ''
+  rating: 0
+  scale: null
+  servings: ''
+  source: ''
+  source_url: ''
+  total_time: ''
+  uid: 2A7964A3-4F27-4519-9500-FD63A010670F
+- categories: []
   cook_time: 'prep/total time: 15 min.'
   created: '2022-09-17 17:46:57'
   description: ''
@@ -735,7 +906,7 @@
     salt and pepper; shake well.
   - In a large bowl, combine the corn, tomatoes and cucumber. Drizzle with dressing;
     toss to coat. Refrigerate until serving.
-  image_url: images/recipes/451B0ADE-B1C3-44AD-8C68-4A11DF0A4CBA.jpg
+  image_url: https://www.tasteofhome.com/wp-content/uploads/2018/01/Cherry-Tomato-Corn-Salad_exps24822_PSG143429D03_04_9b_RMS.jpg?fit=700,1024
   in_trash: false
   ingredients:
   - 1/4 cup minced fresh basil
@@ -810,11 +981,16 @@
   - Remove lid away from you, squeeze lemon juice and garnish with coriander leaves
     and mix well. If there is any excess water, change the setting to saute mode and
     get it to your desired consistency.
-  image_url: images/recipes/6728713E-E2CC-4DF7-941D-58259FDA2708.jpg
+  image_url: https://www.indianveggiedelight.com/wp-content/uploads/2021/02/lauki-sabji-pressure-cooker-180x240.jpg
   in_trash: false
   ingredients:
   - "500 grams lauki (bottle gourd) peeled and chopped about \xBD inch pieces (about\
     \ 3.5 cups)"
+  - "\xBD teaspoon turmeric powder"
+  - "\xBD teaspoon red chilli powder"
+  - 1 teaspoon coriander powder
+  - 1 teaspoon garam masala
+  - 3.6g salt
   - 2 tablespoons coconut oil or ghee
   - 1 teaspoon cumin (jeera) seeds
   - 1 stalk curry leaves
@@ -822,15 +998,8 @@
   - 1 inch ginger finely chopped
   - 1 medium onion finely chopped
   - 2 small tomatoes finely chopped
-  - "\xBC cup water"
-  - salt to taste
   - "1 tablespoon lime juice (or \xBD teaspoon of amchur powder)"
   - 2 tablespoons cilantro (coriander leaves)
-  - Dry Spices
-  - "\xBD teaspoon turmeric powder"
-  - "\xBD teaspoon red chilli powder"
-  - 1 teaspoon coriander powder
-  - 1 teaspoon garam masala
   is_pinned: false
   name: Lauki Ki Sabji (Bottle Gourd Curry)
   notes: 'Make sure that the bottle gourd has smooth skin, pale green in color, and
@@ -847,7 +1016,10 @@
     266 g of tomato for a 150% recipe
 
 
-    5G salt. No water.'
+    5G salt. No water.
+
+
+    Next time I should try, allowing the tomatoes to cook down more.'
   nutritional_info: 'Calories: 94kcal Carbohydrates: 9.6g Protein: 2g
 
     Fat: 6g Saturated Fat: 1.1g Sodium: 890mg
@@ -915,13 +1087,13 @@
     3 months. (Putting it in a flat layer in sealable plastic bags works well as it
     will take up less space in the freezer.) No need to thaw before reheating; remove
     it from the freezer and reheat in the microwave with 1 to 2 Tbsp. of water.'
-  image_url: images/recipes/4B55E48E-E177-43F4-9F74-B23C1CCE59FA.jpg
+  image_url: https://i0.wp.com/www.onceuponachef.com/images/2013/12/basmati-rice.jpg?w=2400&ssl=1
   in_trash: false
   ingredients:
-  - 2 cups basmati rice
+  - 2 cups basmati rice (300g)
   is_pinned: false
   name: Perfect Basmati Rice
-  notes: ''
+  notes: Tilda basmati bag says 200 g of rice, for50 mL of water.
   nutritional_info: ''
   on_favorites: true
   on_grocery_list: false
@@ -935,94 +1107,6 @@
   total_time: ''
   uid: 38BFCF8A-8738-4E8F-9386-ED2D46F66254
 - categories: []
-  cook_time: 20 min
-  created: '2022-08-16 22:03:18'
-  description: ''
-  difficulty: ''
-  directions:
-  - 'Preparation:'
-  - "Dice potatoes into \xBD inch dice or 1/2 inch slices, to taste. Keep them immersed\
-    \ in a bowl of water until used."
-  - "Add \xBC teaspoon salt to a large bowl of water. Rinse and slice eggplants lengthwise\
-    \ to 1 inch thickness and add them to the salted water."
-  - 'Make Aloo baingan:'
-  - "Pour oil to a hot pan 325F and add cumin seeds. When they sizzle add onions and\
-    \ saute them until lightly golden. Don\u2019t brown them."
-  - Add ginger garlic paste and saute just for 30 to 40 seconds, do not brown it.
-  - Remove the sliced potatoes from the water and add them to the pan. Stir fry for
-    2 to 3 minutes until they look slightly transparent.
-  - Lower the heat to 210F and cook them covered until half cooked. They are slightly
-    tender but still undercooked at this stage. About 4 minutes.
-  - Remove the eggplants from their water and add them to the pan. Pan to 350F. Stir
-    fry for 4 to 5 minutes until the skin of eggplants discolor.
-  - Cover and cook on a low heat 200F until potatoes are completely cooked and fork
-    tender, but not mushy. While you cook keep checking in between and give a stir
-    to ensure the veggies are not burnt. About 15 min.
-  - Once the potatoes and eggplants are tender and fully cooked, sprinkle salt, turmeric,
-    red chilli powder, garam masala and coriander powder. Gently mix and stir fry
-    for 1 to 2 minutes at 325F.
-  - Turn the flame to medium 350F pour the tomato puree and mix well. Fry the aloo
-    baingan until all of the raw smell from tomatoes vanishes. By then the masala
-    also turns thick and clings on to the veggies. About 3 min.
-  - "Pour \xBC cup water to make a semi dry aloo baingan. For a gravy version, pour\
-    \ 1 to 1\xBC cup hot boiling water and mix. Taste test and add more salt if required.\
-    \ Simmer for 5 minutes without covering until the curry thickens. Pan at 210F."
-  - Turn off the heat and garnish with coriander leaves.
-  image_url: images/recipes/27B67A3B-9B23-4CF4-80A8-BAEFC8D6117D.jpg
-  in_trash: true
-  ingredients:
-  - 1 cup chopped onions ((110 to 120 grams))
-  - 250 grams potatoes
-  - 250 grams eggplants
-  - "\xBE cup tomato puree ((150 grams tomatoes pureed in a grinder))"
-  - 1 green chilli ((optional))
-  - 2 tablespoons oil
-  - "\xBD to \xBE teaspoon cumin seeds"
-  - "\xBD tablespoon ginger garlic paste ((or \xBD inch ginger, 3 cloves of garlic\
-    \ chopped))"
-  - 1/8 teaspoon turmeric
-  - "\xBD to \xBE teaspoon salt ((adjust to taste))"
-  - "\xBE to 1 teaspoon red chili powder ((adjust to taste))"
-  - "1 to 1 \xBC teaspoon garam masala ((adjust to taste))"
-  - "1 to 1 \xBD teaspoon coriander powder ((adjust to taste))"
-  - "\xBC cup water for semi dry ((or 1\xBC cups hot water for gravy))"
-  - 1 tablespoon coriander leaves ( fine chopped)
-  is_pinned: false
-  name: Aloo Baingan w/ tomato
-  notes: ''
-  nutritional_info: 'Fat: 10 g
-
-    Calories: 166 kcal
-
-    Saturated Fat: 1 g
-
-    Trans Fat: 1 g
-
-    Sodium: 477 mg
-
-    Fiber: 6 g
-
-    Carbohydrate: 18 g
-
-    Sugar: 9 g
-
-    Unsaturated Fat: 9 g
-
-    Serving Size: 1 serving
-
-    Protein: 3 g'
-  on_favorites: false
-  on_grocery_list: false
-  photos: []
-  prep_time: 10 min
-  rating: 0
-  scale: null
-  servings: '3'
-  source: indianhealthyrecipes.com
-  source_url: https://www.indianhealthyrecipes.com/aloo-baingan-masala-recipe/
-  total_time: 30 min
-  uid: 3942F81A-5B88-4301-98C8-C59DAB629DED
-- categories: []
   cook_time: ''
   created: '2022-10-05 23:51:52'
   description: ''
@@ -1035,7 +1119,7 @@
     about 1 minute.
   - Add stock. Add veggies if using. Pot to 210F; cover; cook 15 min without disturbing.
     Check if cooked. Gently fluff. Cover and keep warm until ready to use.
-  image_url: images/recipes/32A099D2-7658-4D30-B17D-056A151A2E85.jpg
+  image_url: https://www.seriouseats.com/thmb/X5QxZb9D3c5n1IazCSOPj6BHseo=/880x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2020__10__20201002-mission-style-burrito-jillian-atkinson-2-6841455590ed4c3981529b232166643a.jpg
   in_trash: false
   ingredients:
   - 2 tablespoons (30ml) neutral oil, such as sunflower, canola, or vegetable
@@ -1082,7 +1166,7 @@
     10 minutes.
   - Remove lid and raise the heat to high - then cook until the water from the tomato
     puree evaporates - another 25-30 minutes, stirring occasionally.
-  image_url: images/recipes/EDD8E5F2-2797-4119-9BC0-25FAEBE8A366.jpg
+  image_url: https://myheartbeets.com/wp-content/uploads/2014/05/kadai-chicken-recipe.jpg
   in_trash: false
   ingredients:
   - 1 teaspoon black peppercorns
@@ -1119,6 +1203,67 @@
   uid: 3ABC8CD0-8382-4A7B-B23F-7CF98BA1A597
 - categories: []
   cook_time: ''
+  created: '2023-03-20 10:44:35'
+  description: ''
+  difficulty: ''
+  directions:
+  - "Heat the olive oil in a soup pot over medium heat. Add the leek and onion and\
+    \ saut\xE9 until softened, about 5 minutes. Add the Jerusalem artichokes, water\
+    \ and salt and bring to a boil. Decrease the heat, cover and simmer until the\
+    \ artichokes are tender, about 30 minutes. // do 1 hour or you'll have gas advises\
+    \ the comments."
+  - Remove from the heat and let cool. Transfer the mixture to a blender and process
+    until smooth. Taste and adjust the seasonings if necessary. Gently reheat before
+    serving.
+  - "To crisp the sage leaves, heat the olive oil in a small saut\xE9 pan over medium\
+    \ heat. Add the sage leaves and saut\xE9 until just crisp, about 2 minutes. Drain\
+    \ on paper towels. Garnish each serving with a couple of the sage leaves."
+  image_url: https://static01.nyt.com/images/2011/11/17/health/Well_veggie_artisoup/Well_veggie_artisoup-superJumbo.jpg
+  in_trash: false
+  ingredients:
+  - 1/4 cup extra-virgin olive oil
+  - 1 leek, white and pale green parts, rinsed and finely chopped
+  - 1/2 cup finely chopped white onion
+  - 2 pounds Jerusalem artichokes, peeled and rinsed
+  - 5 cups water or vegetable stock
+  - 1 teaspoon sea salt
+  - 1 tablespoon extra-virgin olive oil
+  - 8 to 12 fresh sage leaves
+  is_pinned: false
+  name: Jerusalem Artichoke Soup with Crispy Sage Leaves
+  notes: ''
+  nutritional_info: 'Trans Fat: 0 grams
+
+    Fat: 12 grams
+
+    Calories: 232
+
+    Saturated Fat: 2 grams
+
+    Unsaturated Fat: 10 grams
+
+    Sodium: 353 milligrams
+
+    Sugar: 16 grams
+
+    Fiber: 4 grams
+
+    Carbohydrate: 31 grams
+
+    Protein: 4 grams'
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: ''
+  rating: 0
+  scale: null
+  servings: 4 to 6 servings
+  source: Cooking.nytimes.com
+  source_url: https://cooking.nytimes.com/recipes/1015365-jerusalem-artichoke-soup-with-crispy-sage-leaves?smid=ck-recipe-android-share
+  total_time: 45 min
+  uid: 3B2B3C7D-2C8A-438E-9433-1B07C16C6890
+- categories: []
+  cook_time: ''
   created: '2022-12-09 19:36:16'
   description: 'must use a cookie press. adding too much color will mess with dough
     texture. '
@@ -1150,7 +1295,7 @@
   photos: []
   prep_time: ''
   rating: 0
-  scale: null
+  scale: 1/1
   servings: ''
   source: ''
   source_url: ''
@@ -1174,7 +1319,7 @@
     sure the beans are tender and cooked through but still a bit crunchy.
   - Finally, sprinkle the aloo beans with masala powder and drizzle with lime juice.
     Then, season with salt and pepper to taste.
-  image_url: images/recipes/C473A8C6-643C-456C-9FCB-E79933A234BD.jpg
+  image_url: https://cdn.foodaciously.com/static/recipes/1733fbc0-57fc-406b-b569-d876d19247af/indian-aloo-beans-recipe-d6f374790ea549dc206417f3b5264a15-2560.jpg
   in_trash: false
   ingredients:
   - 600 g Potatoes
@@ -1203,11 +1348,334 @@
   total_time: ''
   uid: 40D1CCE5-8AC4-4B59-A88D-B9CD55F5B34A
 - categories: []
+  cook_time: 8 hrs
+  created: '2023-11-11 18:49:25'
+  description: ''
+  difficulty: ''
+  directions:
+  - Testing with dutch oven and 1/2 recipe.
+  - Preheat dutch oven at low intensity to 230F.
+  - In one bowl, whisk together the eggs and milk.
+  - In another bowl, stir together breadcrumbs, Parmesan cheese and Italian seasoning.
+  - "Peel and rinse eggplant and cut into \u2153 inch rounds. Ignore salting instructions\
+    \ in recipe."
+  - Choose the cooking pot, and spread loosely 1/8th of the sauce in the bottom of
+    the cooking pot.
+  - Iteratively dip eggplant in egg mixture and then in the breadcrumbs. Create 3
+    layers in the slow cooker of breaded eggplant & sauce & mozzarella, probably 3
+    layers. Add remaining sauce.
+  - Cook covered at 230F for 2 hours, testing after that much time. It will likely
+    be watery, so probably 30 min at 230F after that uncovered.
+  - If desired, top with fresh basil leaves.
+  image_url: https://wendypolisi.com/wp-content/uploads/2022/07/slow-cooker-eggplant-parmesan-150x233.jpg
+  in_trash: false
+  ingredients:
+  - 4 pounds eggplant
+  - 1 tablespoon salt
+  - 3 large eggs
+  - "\xBC cup milk of choice"
+  - "1 \xBD cup gluten free breadcrumbs"
+  - 3 ounces vegetarian Parmesan cheese or vegan Parmesan
+  - 2 teaspoons Italian seasoning make sure it is gluten free
+  - 4 cups marinara sauce use a low-sugar brand like Rao's
+  - 16 ounces mozzarella cheese sliced or shredded Daiya
+  - fresh basil for topping
+  is_pinned: false
+  name: Slow Cooker Eggplant Parmesan w/ Asheesh mods
+  notes: ''
+  nutritional_info: 'Calories: 258kcal | Carbohydrates: 23g | Protein: 16g | Fat:
+    12g | Saturated Fat: 6g | Cholesterol: 75mg | Sodium: 1380mg | Potassium: 678mg
+    | Fiber: 6g | Sugar: 9g | Vitamin A: 775IU | Vitamin C: 9.1mg | Calcium: 317mg
+    | Iron: 1.7mg'
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: 25 mins
+  rating: 0
+  scale: 1/2
+  servings: ''
+  source: wendypolisi.com
+  source_url: https://wendypolisi.com/slow-cooker-eggplant-parmesan/
+  total_time: ''
+  uid: 43B875A3-E099-4C5A-B061-D99A7E7D0D19
+- categories: []
+  cook_time: 45 mins
+  created: '2024-01-06 18:22:52'
+  description: ''
+  difficulty: ''
+  directions:
+  - In a large, heavy-bottomed pot or Dutch oven over medium-high heat, heat the oil
+    until it shimmers. Add the potatoes, carrot and onion and cook, stirring occasionally,
+    until the vegetables are coated with oil, 2 to 3 minutes. Add the water and bring
+    to a boil.
+  - Add the beef and stir to combine. Bring to a simmer, and use a spoon or a mesh
+    skimmer to skim off impurities that rise to the surface. (This will help you achieve
+    a clearer broth, but the stew will taste great even if you cannot remove all of
+    it.)
+  - Add the sugar and cook until dissolved, about 2 minutes. Add the soy sauce, sake
+    and mirin. Taste the broth, and add up to 1 tablespoon of additional sugar, if
+    desired. Partially cover with a lid and cook over medium-low to medium heat, until
+    the potatoes are tender, about 15 minutes.
+  - Remove the lid, and keep at a lively simmer until all the ingredients are very
+    tender and the liquid has reduced a bit, 10 to 15 minutes. The finished dish should
+    be the consistency of a stew. Serve hot or warm.
+  image_url: https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZBYHDKIR2TTBDE4SCAHVMUQLSE.jpg&w=1440
+  in_trash: false
+  ingredients:
+  - 1 tablespoon toasted sesame oil
+  - 4 Yukon Gold potatoes (about 1 1/2 pounds total), peeled and cut into 2-inch pieces
+  - 1 medium carrot, cut into 1-inch pieces (1/2 cup)
+  - 1 large yellow onion (12 ounces), cut into 1/2-inch slices (2 1/2 cups)
+  - 1 1/2 cups water
+  - 1/2 pound lean ground beef (90 percent lean or higher)
+  - 1 tablespoon granulated sugar, plus more to taste
+  - 1/2 cup plus 1 tablespoon low-sodium soy sauce
+  - 2 tablespoons sake
+  - 1 tablespoon mirin
+  is_pinned: false
+  name: Nikujaga (Japanese Beef and Potato Stew)
+  notes: "It\u2019s tasty. It came out too salty. Edible, but it\u2019s salty. Served\
+    \ over Basmati.\n\nCooked a 2x recipe in instant pot pot on stove. 214-220F"
+  nutritional_info: 'Calories 346
+
+    Fat 9 g
+
+    Saturated Fat 3 g
+
+    Carbohydrates 47 g
+
+    Sodium 1294 mg
+
+    Cholesterol 37 mg
+
+    Protein 18 g
+
+    Fiber 6 g
+
+    Sugar 10 g'
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: 20 mins
+  rating: 4
+  scale: 2/1
+  servings: 'Servings: 4'
+  source: washingtonpost.com
+  source_url: https://www.washingtonpost.com/recipes/nikujaga-japanese-beef-potato-stew/
+  total_time: ''
+  uid: 4934A797-F24D-4BB6-8494-536105D73B57
+- categories: []
+  cook_time: 25 minutes
+  created: '2024-01-03 14:26:14'
+  description: ''
+  difficulty: ''
+  directions:
+  - Heat a large pot over medium heat. Once hot, add oil, onion, cumin, and one-third
+    of the salt (1/4 tsp as original recipe is written // adjust if altering batch
+    size).
+  - Add garlic, ginger, cilantro, and green chilies to a mortar and pestle and grind
+    into a rough paste (or use a small food processor to pulse into a paste. Alternatively,
+    just finely mince.) Then, add to the pan with the onions.
+  - Next add ground coriander, chili powder, and turmeric and stir to coat. Add a
+    little more oil at this point if the pan is looking dry.
+  - "Next add pureed tomatoes and chickpeas and remaining salt (1/2 tsp as original\
+    \ recipe is written). If the mixture looks a little too thick, add up to 1 cup\
+    \ (240 ml) water (I added ~1/2 cup (120 ml) // amount as original recipe is written\
+    \ // adjust if altering batch size). You\u2019re looking for a semi-thick soup\
+    \ consistency at this point, as it will cook down into more of a stew."
+  - Increase heat to medium high until it reaches a rolling simmer, then reduce heat
+    to low or medium-low and maintain a simmer (uncovered) for 15-20 minutes, or until
+    thick and stew-like. Stir occasionally.
+  - "In the meantime, if you don\u2019t have garam masala seasoning, make your own\
+    \ by adding (amounts as original recipe is written // adjust if altering batch\
+    \ size) 2 small dried red chilies, 1 tsp black peppercorns (or 1/2 tsp ground\
+    \ black pepper), 1 tsp cumin seeds (or 1/2 tsp ground cumin), 1 tsp cardamom pods\
+    \ (or 1/2 tsp ground cardamom), 1/2 tsp cloves (or 1/4 tsp ground cloves), and\
+    \ 1/8 tsp nutmeg to a mortar and pestle or spice grinder and grind/mix into a\
+    \ powder. Set aside."
+  - When the chana masala is thickened and bubbly, taste and adjust seasonings as
+    needed, adding more salt for saltiness, chili powder for heat, or a bit of coconut
+    sugar for sweetness and to offset the heat of the chilies.
+  - Remove from heat and add lemon juice and garam masala. Stir to mix, then let cool
+    slightly before serving. Fresh cilantro and lemon juice make an excellent garnish.
+    Chana masala can be enjoyed as a stew on its own, or it can be delicious with
+    white or brown rice (see my favorite method here), or cauliflower rice. Lastly,
+    my favorite is over roasted sweet potatoes and broccoli (see notes for instructions).
+  - Leftovers will keep covered in the refrigerator up to 4 days, or in the freezer
+    up to 1 month.
+  image_url: https://minimalistbaker.com/wp-content/uploads/2016/02/EASY-Chana-Masala-SQUARE.jpg
+  in_trash: false
+  ingredients:
+  - 3 Tbsp grapeseed, coconut, or avocado oil (or other neutral oil)
+  - 1 medium white or yellow onion, finely diced
+  - 1 Tbsp ground cumin
+  - 3/4 tsp sea salt (divided // plus more to taste)
+  - 6 cloves garlic, minced (6 cloves yield ~3 Tbsp)
+  - 2 Tbsp fresh ginger, minced
+  - 1/2 cup fresh cilantro, chopped
+  - 2-3 fresh green chilies*, sliced with seeds (I used serrano peppers // reduce
+    amount if you prefer less heat)
+  - 1 Tbsp ground coriander
+  - 1 tsp chili powder
+  - 1 tsp ground turmeric
+  - "1 (28-ounce) can pur\xE9ed*, crushed, or finely diced tomatoes (if unsalted,\
+    \ you\u2019ll add more salt to the dish)"
+  - 2 (15-ounce) cans chickpeas, slightly drained
+  - 1 tsp garam masala* (see instructions for DIY blend)
+  - 2-3 tsp coconut sugar (or other sweetener of choice)
+  - 2 Tbsp lemon juice (plus more to taste // optional)
+  is_pinned: true
+  name: Easy Chana Masala Untested
+  notes: When using dried chickpeas, use 200 g, soak overnight, add at the same time,
+    but let it all simmer for an extra hour.
+  nutritional_info: 'Calories: 275
+
+    Carbohydrates: 41.1 g
+
+    Protein: 9 g
+
+    Fat: 8.5 g
+
+    Saturated Fat: 0.6 g
+
+    Trans Fat: 0 g
+
+    Cholesterol: 0 mg
+
+    Sodium: 496 mg
+
+    Fiber: 5.3 g
+
+    Sugar: 14.8 g'
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: 5 minutes
+  rating: 0
+  scale: null
+  servings: '6'
+  source: minimalistbaker.com
+  source_url: https://minimalistbaker.com/easy-chana-masala/
+  total_time: ''
+  uid: 4B434810-F686-4EA9-BFE7-94D804CD8128
+- categories:
+  - Untested
+  cook_time: ''
+  created: '2023-09-03 15:26:23'
+  description: ''
+  difficulty: ''
+  directions:
+  - Line the base of a 23cm / 9inch springform cake tin with baking parchment and
+    grease its sides lightly with butter.
+  - "Preheat the oven to 180\xB0C/160\xB0C Fan/gas mark 4/ 350\xB0F."
+  - Beat the butter and sugar till pale and whipped, either by hand in a bowl with
+    a wooden spoon, or using a freestanding mixer.
+  - Mix together the almonds, polenta and baking powder, and beat some of this into
+    the butter-sugar mixture, followed by 1 egg, then alternate dry ingredients and
+    eggs, beating all the while.
+  - Finally, beat in the lemon zest and pour, spoon or scrape the mixture into your
+    prepared tin and bake in the oven for about 40 minutes.
+  - It may seem wibbly but, if the cake is cooked, a cake tester should come out cleanish
+    and, most significantly, the edges of the cake will have begun to shrink away
+    from the sides of the tin. remove from the oven to a wire cooling rack, but leave
+    in its tin.
+  - Make the syrup by boiling together the lemon juice and icing sugar in a smallish
+    saucepan.
+  - "Once the icing sugar\u2019s dissolved into the juice, you\u2019re done."
+  - Prick the top of the cake all over with a cake tester (a skewer would be too destructive),
+    pour the warm syrup over the cake, and leave to cool before taking it out of its
+    tin.
+  - ADDITIONAL INFORMATION
+  - 'NOTE: To make this cake gluten-free, make sure to use gluten-free baking powder,
+    or omit the baking powder altogether and beat the batter exuberantly at step 4.'
+  - To make this cake dairy-free, substitute 150ml light and mild olive oil for the
+    200g of butter, making sure you still whisk the oil and sugar together very well
+    in step 3.
+  - 'MAKE AHEAD:'
+  - The cake can be baked up to 3 days ahead and stored in an airtight container in
+    a cool place. Will keep for a total of 5-6 days.
+  - 'FREEZE:'
+  - The cake can be frozen on its lining paper as soon as cooled, wrapped in a double
+    layer of clingfilm and a layer of foil, for up to 1 month. Defrost for 3-4 hours
+    at room temperature.
+  image_url: https://www.nigella.com/assets/uploads/recipes/public-thumbnail/lemon-polenta-cake-563a6559b0fb7.jpg
+  in_trash: false
+  ingredients:
+  - 'FOR THE CAKE:'
+  - 200 grams soft unsalted butter (plus some for greasing)
+  - 200 grams caster sugar
+  - 200 grams ground almonds
+  - 100 grams fine polenta (or cornmeal)
+  - "1\xBD teaspoons baking powder (see NOTE below)"
+  - 3 large eggs
+  - zest of 2 unwaxed lemons (save juice for syrup)
+  - 'FOR THE SYRUP:'
+  - juice of the 2 unwaxed lemons above
+  - 125 grams icing sugar
+  is_pinned: false
+  name: Lemon Polenta Cake
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: ''
+  rating: 0
+  scale: null
+  servings: 'Yields: 12-14 slices'
+  source: nigella.com
+  source_url: https://www.nigella.com/recipes/lemon-polenta-cake
+  total_time: ''
+  uid: 4D282396-200D-4D96-AE5D-005589972E3F
+- categories: []
+  cook_time: ''
+  created: '2023-01-31 09:44:22'
+  description: ''
+  difficulty: ''
+  directions:
+  - "Bring scallions, herbs, garlic, beans, salt, and 4 quarts water to a boil in\
+    \ a large pot. Reduce heat to medium-low and simmer gently, uncovered, skimming\
+    \ surface and stirring occasionally and adding more water as needed to keep beans\
+    \ covered, until beans are tender, 1\xBD\u20133\xBD hours. Cooking time will depend\
+    \ on how old the beans are. Remove scallions, herbs, and garlic."
+  - 'Do Ahead: Beans can be cooked 3 months ahead. Transfer to an airtight container
+    and freeze.'
+  image_url: https://assets.bonappetit.com/photos/5f32b10acef63982207a3dfd/1:1/w_2560%2Cc_limit/Frijoles-de-la-Olla.jpg
+  in_trash: false
+  ingredients:
+  - 4 kg water
+  - "3 spring onions or scallions, trimmed, or \xBC medium onion"
+  - 2 sprigs hardy herbs (such as avocado leaves, rosemary, thyme, or bay)
+  - 3 small sprigs tender herbs (such as epazote, cilantro, basil, or mint)
+  - 3 garlic cloves, crushed
+  - 1 lb. dried beans (such as pinto, black, cannellini, or kidney), rinsed, picked
+    through
+  - "15g salt Diamond Crystal or 1 Tbsp. plus \xBD tsp. Morton kosher salt"
+  is_pinned: false
+  name: Frijoles De La Olla
+  notes: "Salt is an estimate, but it's what I tried\n\n2/3 recipe is all that fits\
+    \ in the fourth quarter scan pan \n\nCooking at 200 F pan temperature "
+  nutritional_info: "1 lb beans has ~1500 calories\n\n1 person's worth of this is\
+    \ a 1/2 recipe\n\n1 meal's worth if you add avocado is 1/3 recipe\n\n I forgot\
+    \ the fresh herbs, but whatever"
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: ''
+  rating: 0
+  scale: 2/3
+  servings: About 3 quarts
+  source: bonappetit.com
+  source_url: https://www.bonappetit.com/recipe/frijoles-de-la-olla
+  total_time: ''
+  uid: 4E9AB595-36B4-434E-940D-791D06FE7394
+- categories: []
   cook_time: 15 min
-  created: '2022-09-26 22:39:34'
+  created: '2022-09-26 23:39:34'
   description: ''
   difficulty: Easy
   directions:
+  - Pan to 230F for this
   - Over medium heat in a saucepan, heat the milk with the stock and salt, stirring
     throughout. Continue to heat the milk mixture over medium heat, and then reduce
     to low heat once the milk has begun to froth or simmer.
@@ -1217,7 +1685,7 @@
   - Once the roux has thickened, slowly stir into the milk mixture to blend. Continue
     to stir over low heat until well incorporated. Finally, remove from the heat and
     whisk in the cheeses. Once mixed, add the pasta, again stir well and serve.
-  image_url: images/recipes/686F5D42-3691-4B1B-8D4F-44B19A275AD0.jpg
+  image_url: https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/12/14/0/IL0213Z_bechamel-mac-and-cheese_s4x3.jpg.rend.hgtvcom.826.620.suffix/1371603912021.jpeg
   in_trash: false
   ingredients:
   - 3/4 cup whole milk
@@ -1237,7 +1705,7 @@
   photos: []
   prep_time: 10 min
   rating: 0
-  scale: null
+  scale: 1/1
   servings: 'Yield: 6 portions'
   source: foodnetwork.com
   source_url: https://www.foodnetwork.com/recipes/robert-irvine/bechamel-mac-and-cheese-recipe-2106651
@@ -1342,6 +1810,43 @@
   total_time: ''
   uid: 521FDC50-2343-4E51-8D9B-077252091EA4
 - categories: []
+  cook_time: ''
+  created: '2023-12-20 17:46:34'
+  description: 'Pan to 325
+
+
+    Add italian sausages
+
+
+    Flip every 5 min
+
+
+    Should be done in 20 min
+
+
+    Internal temp target 160 or so'
+  difficulty: ''
+  directions: ''
+  image_url: null
+  in_trash: false
+  ingredients:
+  - 1 lb sausage eg Italian
+  is_pinned: false
+  name: Asap Pan Sausages
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: ''
+  rating: 0
+  scale: null
+  servings: ''
+  source: ''
+  source_url: ''
+  total_time: ''
+  uid: 5365FFAD-AC26-4979-B150-970286321E4C
+- categories: []
   cook_time: 20-25 mins
   created: '2022-10-09 11:15:08'
   description: sponge cake from British bake off
@@ -1377,7 +1882,7 @@
     and lightly whip the cream to soft peaks. '
   - "Dollop the cream on top of the jam and gently spread it out into an even layer.\
     \ Top with the second sponge and dust with icing sugar \u2013 serve and enjoy!"
-  image_url: images/recipes/B314E051-8A0D-4100-946E-ED457BB3CC71.jpg
+  image_url: https://thegreatbritishbakeoff.co.uk/wp-content/uploads/2021/01/David_Atherton_2021_1024_3-1024x450.png
   in_trash: false
   ingredients:
   - 'For the sponge:'
@@ -1408,6 +1913,37 @@
   source_url: https://thegreatbritishbakeoff.co.uk/recipes/all/david-vanilla-sponge-cake/
   total_time: ''
   uid: 54910B3D-E3EA-43CE-8D32-0DB13C6D3224
+- categories: []
+  cook_time: ''
+  created: '2023-05-14 22:03:51'
+  description: ''
+  difficulty: ''
+  directions:
+  - Pan to 160F with lots of water
+  - When pan reaches temp, add the sausages in their retail packaging (frozen).
+  - Remove at 90 min; place in fridge.
+  - Sautee later if you feel like it.
+  - 210 calories per sausage (4 in a 14oz package)
+  - 'Fake sous vide on pan: 170F 60min'
+  image_url: null
+  in_trash: false
+  ingredients:
+  - 4 sausages @ ~1/4 lb each
+  is_pinned: false
+  name: Sous vide Italian sausage
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: ''
+  rating: 0
+  scale: null
+  servings: ''
+  source: ''
+  source_url: ''
+  total_time: ''
+  uid: 555B6C7E-7B00-4360-8AE8-B1ECF717C293
 - categories:
   - Untested
   cook_time: ''
@@ -1476,7 +2012,7 @@
   - "Serve gumbo with warm rice, sprinkling sliced scallions on top of each bowl.\
     \ Pass hot sauce at the table, as well as fil\xE9 powder, if desired, to lightly\
     \ shake on top of each serving of gumbo and rice."
-  image_url: images/recipes/0B5F53B6-9089-4B35-B0CB-BF09839AD22C.jpg
+  image_url: https://www.seriouseats.com/thmb/QPhKemRl6ZWYapQyrSlRG0f_mdA=/880x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2019__09__20190905-gumbo-vicky-wasik-4I8A7088-d30427daa31d4915b7ce5e27c5919450.jpg
   in_trash: false
   ingredients:
   - 1 cup plus 1 tablespoon (250ml) canola or vegetable oil, divided
@@ -1694,7 +2230,7 @@
     retaining its crunch and developing flavor over a couple days. Store in an airtight
     container in the fridge. Before serving, add the roasted chickpeas, pine nuts,
     cilantro, and mint. Toss gently until well-combined.
-  image_url: images/recipes/0E8E969B-6677-4B0E-A39E-72D8A4AC8E3B.jpg
+  image_url: https://www.seriouseats.com/thmb/DmoylbL8fvFR9yHciLHOBc2F3u8=/880x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2015__10__20140227-roasted-chickpea-sun-dried-tomato-herb-kale-salad-pine-nut-recipe-vegan-edit-f4ff22d0bfc14280845a6ba119ce6522.jpg
   in_trash: false
   ingredients:
   - 1 (28-ounce) can chickpeas, rinsed and drained
@@ -1793,32 +2329,6 @@
   uid: 6F6712D4-FF87-4778-9388-38AA8128EC9A
 - categories: []
   cook_time: ''
-  created: '2022-11-24 14:20:07'
-  description: https://www.chefsteps.com/activities/perfect-cranberry-sauce
-  difficulty: ''
-  directions:
-  - Take the first step.
-  image_url: images/recipes/0221CF58-3DCE-4868-8909-01A721DBCF96.jpg
-  in_trash: true
-  ingredients:
-  - Perfect Cranberry Sauce
-  is_pinned: false
-  name: Perfect Cranberry Sauce | ChefSteps
-  notes: ''
-  nutritional_info: ''
-  on_favorites: false
-  on_grocery_list: false
-  photos: []
-  prep_time: ''
-  rating: 0
-  scale: null
-  servings: ''
-  source: chefsteps.com
-  source_url: https://www.chefsteps.com/activities/perfect-cranberry-sauce
-  total_time: ''
-  uid: 6F88E8F6-EE45-48F3-90F3-A0E22B45B159
-- categories: []
-  cook_time: ''
   created: '2022-08-14 18:09:10'
   description: ''
   difficulty: ''
@@ -1848,6 +2358,189 @@
   source_url: https://www.wired.com/2016/04/review-breville-polyscience-control-freak/
   total_time: ''
   uid: 6FECA944-25C9-4B97-92B7-CBE785E7AD95
+- categories: []
+  cook_time: 15 min
+  created: '2023-07-08 12:07:11'
+  description: ''
+  difficulty: ''
+  directions:
+  - Dice potatoes into 1-inch cubes. Steam potatoes in instant pot w/ 1 cup water,
+    pressure cook for 10, natural release 10, quick release.
+  - Combine the cumin, coriander, turmeric, chili powder, and salt in a small bowl.
+    Set aside.
+  - "Warm the oil in a large nonstick frying pan or wok set over medium heat (350F).\
+    \ When the oil is hot, add the asafetida, quickly followed by the cumin seeds.\
+    \ Once the seeds begin to sizzle, add the cauliflower florets and the diced potato.\
+    \ Stir to combine, and saut\xE9 until the vegetables begin to turn golden brown,\
+    \ about 6\u20138 minutes."
+  - "Add the spice mixture to the pan and toss. Add the water, and stir to combine.\
+    \ Cover the skillet or wok and reduce the heat to low. Cook until the cauliflower\
+    \ is tender but not falling apart, about 5\u20137 more minutes. Serve immediately."
+  image_url: https://images.ctfassets.net/3s5io6mnxfqz/5ALWzU6JgO1mvTMbUdhWZg/fe9b82d8f73d7837bbdd11b583a21df7/2021_05_04_MASTER_CauliflowerPotatoesCuminAsefetida_0364-Edit.jpg?w=1920
+  in_trash: false
+  ingredients:
+  - 3/4 lb waxy e.g. red potato
+  - 1 teaspoon ground cumin
+  - "\xBD teaspoon ground coriander"
+  - "\xBC teaspoon ground turmeric"
+  - "\xBC teaspoon red chili powder"
+  - 1 teaspoon salt
+  - 3 tablespoons peanut oil or olive oil
+  - "\xBC teaspoon ground asafetida"
+  - "\xBD teaspoon cumin seeds"
+  - "1 medium head cauliflower, broken into florets (about 5\xBC cups)"
+  - "\xBD cup water"
+  is_pinned: false
+  name: "Madhur Jaffrey\u2019s Aloo Gobi Cauliflower and Potatoes (modified)"
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: 15 min
+  rating: 0
+  scale: null
+  servings: ''
+  source: masterclass.com
+  source_url: https://www.masterclass.com/articles/indian-cauliflower-recipe-by-madhur-jaffrey
+  total_time: ''
+  uid: 7136CB38-88C2-4DDE-B658-9D6914E9A392
+- categories: []
+  cook_time: ''
+  created: '2023-05-21 20:24:53'
+  description: ''
+  difficulty: ''
+  directions:
+  - Melt butter in a medium pot or large saucepan over medium heat. Add flour and
+    cook for 1 minute.
+  - Add about 3/4 cup of milk and mix into butter mixture - it will become a slurry
+    pretty quickly.
+  - Add remaining milk and mix so the slurry mixes in. Then add water and Seasonings.
+  - Add macaroni and mix. Stir occasionally as it comes to heat. When you see wisps
+    of steam as you stir, lower the heat down to medium low.
+  - Stir regularly as it cooks for 9 - 10 minutes (it will bubble gently), or until
+    the sauce thickens and the macaroni is just cooked - tender but still firm. It
+    should still be saucey at this stage and thinner than you want.
+  - Take it off the stove and stir the cheese in quickly. Adjust salt and pepper to
+    taste. <- In this step, the sauce thickens and reduces considerably.
+  - Serve immediately!!
+  image_url: https://www.recipetineats.com/wp-content/uploads/2016/11/Mac-and-Cheese-Stovetop_-1.jpg?resize=650,910
+  in_trash: false
+  ingredients:
+  - 50 g / 3 1/2 tbsp butter
+  - 3 tbsp flour
+  - 2 cups milk (full fat preferred but low fat is ok)
+  - 2 1/2 cups water
+  - 250 g / 2 1/2 cups elbow macaroni , uncooked
+  - 3/4 cup mozzarella cheese , shredded
+  - 1 1/2 cups cheese (Cheddar, Colby, Gruyere) , shredded (Note 1)
+  - Salt and pepper
+  - SEASONINGS (OPTIONAL)
+  - 1 tsp garlic powder
+  - 1/2 tsp onion powder
+  - 1/2 tsp mustard powder
+  is_pinned: false
+  name: Mac and Cheese (experimental)
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: ''
+  rating: 0
+  scale: null
+  servings: '5'
+  source: recipetineats.com
+  source_url: https://www.recipetineats.com/stovetop-macaroni-cheese/
+  total_time: ''
+  uid: 7270543E-AA2A-4DB5-BDE3-B6DF740A9A71
+- categories: []
+  cook_time: 20 minutes
+  created: '2023-06-21 09:30:21'
+  description: ''
+  difficulty: ''
+  directions:
+  - Instant Pot instructions
+  - Place all ingredients into an Instant Pot in the order listed, EXCEPT for the
+    butter, cream and 1 teaspoon of the garam masala, mixing the sauce well before
+    you place the chicken on top of the sauce. If it's frozen, push it into the sauce
+    a bit so it defrosts better
+  - Close the cooker and set for 10 mins on high, and let it release pressure naturally
+    for 10 minutes. After that, release all remaining pressure.
+  - Open up the pot and remove the chicken carefully and set aside
+  - Blend together all the ingredients, preferably using an immersion blender
+  - Add the cut up butter, cream, cilantro, and garam masala and stir until well incorporated.
+  - It's best to let the sauce cool just a little before adding the butter and the
+    cream. Adding it into the boiling sauce will make your sauce very thin. If that
+    happens, just put it in the fridge for a little and let it thicken up. It should
+    be thick enough to coat the back of a spoon
+  - Take out half the sauce and freeze for later or store in the fridge for 2-3 days
+  - Add the chicken back in and heat through. Break it up into smaller pieces if you
+    need but don't shred it.
+  - Serve over rice, or zucchini noodles
+  - Using leftover sauce
+  - Use leftover cooked chicken and mix in with the gently heated sauce, let it simmer
+    for a few for the flavors to meld together and there you go. Add some fresh cilantro
+    on top.
+  - You could also use this for Paneer Makhani. Defrost a cup of peas and 1 cup of
+    paneer and mix gently into the heated sauce and let it simmer for a few for the
+    flavors to meld together and there you go.
+  - Watch The Video
+  - If you use a stand blender, be very careful with the hot sauce and be sure to
+    leave the inside lid open to vent.
+  - Yes, I know the recipe doesn't call for additional liquid. The chicken and tomatoes
+    release a LOT of liquid. Unless you do something wrong, it will not burn.
+  - Do not re-pressure cook the butter and cream filled sauce for a second time as
+    it gets thin and unappetizing. Cook the chicken when you first make the sauce,
+    save half the tomato sauce frozen, and when you're ready, add cooked chicken,
+    or paneer, and heat it through in a skillet. Instant dinner!
+  - For this recipe, the garam masala is very, very, important. Unlike other recipes,
+    I didn't use whole spices because I've learned that not everyone has whole cinnamon
+    sticks, whole cloves, and green cardamom lying around. So we'll use garam masala
+    instead and I must urge you to make this homemade garam masala recipe! It makes
+    a HUGE difference.
+  - You'll note there's no added water in this recipe. Between the tomatoes and the
+    chicken, there's more than enough to create pressure in this recipe. Any more
+    water and it's going to taste insipid.
+  - Let the sauce cool just a little before adding the butter and the cream. Adding
+    it to the boiling sauce will make your sauce very thin. If that happens, just
+    put it in the fridge for a little and let it thicken up. It should be thick enough
+    to coat the back of a spoon.
+  image_url: https://twosleevers.com/wp-content/uploads/2020/06/Butter-Chicken-Wide-768x580.jpg
+  in_trash: false
+  ingredients:
+  - 1 14- ounce Canned Tomatoes
+  - 5-6 cloves Garlic
+  - 1-2 teaspoons Minced Ginger
+  - 1 teaspoon Turmeric
+  - 1/2 teaspoons Cayenne Pepper
+  - 1 teaspoon Smoked Paprika
+  - 1 teaspoon Kosher Salt
+  - 1 teaspoon Garam Masala
+  - 1 teaspoon Ground Cumin
+  - 1 pound Boneless Skinless Chicken Thighs, (or use breast, bone-in, or whatever
+    works for you. If frozen, add 1-2 minutes to total time)
+  - 'To finish:'
+  - 4 ounces butter cut into cubes, (use coconut oil if dairy free)
+  - 4 ounces Heavy Cream, (use full-fat coconut milk if dairy free)
+  - 1 teaspoon Garam Masala
+  - 1/4-1/2 cup chopped cilantro
+  is_pinned: false
+  name: 30 Minute Indian Butter Chicken Recipe | Instant Pot Butter Chicken
+  notes: ''
+  nutritional_info: 'Calories: 336kcal | Carbohydrates: 11g | Protein: 25g | Fat:
+    22g | Fiber: 3g | Sugar: 5g'
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: 5 minutes
+  rating: 0
+  scale: null
+  servings: ''
+  source: twosleevers.com
+  source_url: https://twosleevers.com/instant-pot-butter-chicken/
+  total_time: ''
+  uid: 72DBD0A7-3C43-4EBB-B605-4E02D633DC1D
 - categories:
   - Untested
   cook_time: 'prep: 10 min. + chilling'
@@ -1857,7 +2550,7 @@
   directions:
   - Place all ingredients in a large bowl; toss gently to combine. Refrigerate, covered,
     at least 30 minutes before serving.
-  image_url: images/recipes/88FFA3E7-792A-42A5-BE33-2CA444784EDE.jpg
+  image_url: https://www.tasteofhome.com/wp-content/uploads/2018/01/exps192294_SD163617C02_04_4b-3.jpg?fit=700,1024
   in_trash: false
   ingredients:
   - 4 medium cucumbers, cut into 1/2-inch pieces (about 7 cups)
@@ -1917,7 +2610,7 @@
   - Remove the roasted chicken from the oven and baste again with the pan juices.
     Let the chicken rest for 10 minutes before carving. You can tent it with aluminum
     foil so it retains its heat.
-  image_url: images/recipes/2865CB76-4DC1-4C7E-8E34-64D1CCB3BDE3.jpg
+  image_url: https://www.familyfoodonthetable.com/wp-content/uploads/2021/07/Whole-roasted-chicken-9-150x225.jpg
   in_trash: false
   ingredients:
   - 5 lb. whole chicken (Griggstown)
@@ -1981,6 +2674,72 @@
   uid: 79FF79D0-11C8-44F4-A5B6-6E279CBF0E7F
 - categories: []
   cook_time: ''
+  created: '2023-11-03 18:14:47'
+  description: ''
+  difficulty: ''
+  directions:
+  - Place chiles in medium bowl. Pour enough boiling water over to cover. Soak until
+    chiles soften, at least 30 minutes and up to 4 hours.
+  - "Preheat oven to 350\xB0F. Saut\xE9 bacon in heavy large oven-proof pot over medium-high\
+    \ heat until beginning to brown. Add onions. Reduce heat to medium; cover and\
+    \ cook until tender, about 5 minutes. Sprinkle beef all over with coarse salt\
+    \ and pepper. Add to pot; stir to coat. Set aside."
+  - Drain chiles, reserving soaking liquid. Place chiles in blender. Add 1 cup soaking
+    liquid, garlic, chili powder, cumin seeds, oregano, coriander, and 1 1/2 teaspoons
+    coarse salt; blend to puree, adding more soaking liquid by 1/4 cupfuls if very
+    thick. Pour puree over brisket in pot. Add tomatoes with juices, beer, green chiles,
+    and cilantro stems. Stir to coat evenly.
+  - 'Bring chili to simmer. Cover and place in oven. Cook 2 hours. Uncover and cook
+    until beef is almost tender, about 1 hour. Add squash; stir to coat. Roast uncovered
+    until beef and squash are tender, adding more soaking liquid if needed to keep
+    meat covered, about 45 minutes longer. Season chili to taste with salt and pepper.
+    Tilt pot and spoon off any fat from surface of sauce. DO AHEAD: Can be made 2
+    days ahead. Cool 1 hour. Chill uncovered until cold, then cover and keep chilled.'
+  image_url: https://assets.epicurious.com/photos/5699596dba0479d720da1c1f/master/w_2000,h_1333,c_limit/1008-BA-FOD2-03.jpg
+  in_trash: false
+  ingredients:
+  - 'Chili:'
+  - 6 large dried ancho chiles*
+  - 6 ounces bacon, diced
+  - 1 1/4 pounds onions, chopped (about 4 cups)
+  - 1 5-pound flat-cut (also called first-cut) beef brisket, cut into 2 1/2- to 3-inch
+    cubes
+  - Coarse kosher salt
+  - 6 large garlic cloves, peeled
+  - 2 tablespoons chili powder
+  - 2 teaspoons cumin seeds
+  - 1 teaspoon dried oregano
+  - 1 teaspoon ground coriander
+  - 1 1/2 teaspoons coarse kosher salt
+  - 1 1/2 10-ounce cans fire-roasted diced tomatoes with green chiles (1 3/4 cups)
+  - 1 12-ounce bottle Mexican beer
+  - 1 7-ounce can diced roasted green chiles
+  - 1/2 cup finely chopped fresh cilantro stems
+  - 4 cups 1 1/2- to 2-inch chunks seeded peeled butternut squash (from 3 1/2-pound
+    squash)
+  - 'Garnishes:'
+  - Fresh cilantro leaves
+  - 1 Red onion
+  - Diced avocado
+  - Shredded Monterey Jack cheese
+  - Warm corn and/or flour tortillas
+  is_pinned: false
+  name: Texas Beef Brisket Chili Squash Epicurious
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: ''
+  rating: 0
+  scale: null
+  servings: 8 to 10 servings
+  source: epicurious.com
+  source_url: https://www.epicurious.com/recipes/food/views/texas-beef-brisket-chili-350108
+  total_time: ''
+  uid: 80637DB4-D450-418E-9E9B-F37DDADB2749
+- categories: []
+  cook_time: ''
   created: '2022-08-29 18:54:34'
   description: ''
   difficulty: ''
@@ -2003,7 +2762,7 @@
   - 'seems fine. '
   - burning is happening.
   - drop temp to 350
-  image_url: images/recipes/17C12721-20F2-40D3-B3C1-E5E9EB95D6D0.jpg
+  image_url: null
   in_trash: false
   ingredients:
   - 8 oz pizza dough
@@ -2027,8 +2786,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
-  photos:
-  - '1': images/recipes/17C12721-20F2-40D3-B3C1-E5E9EB95D6D0.jpg
+  photos: []
   prep_time: ''
   rating: 0
   scale: null
@@ -2037,6 +2795,46 @@
   source_url: ''
   total_time: ''
   uid: 80942D37-5CB9-4FE7-A528-BA77F6A90F46
+- categories: []
+  cook_time: ''
+  created: '2023-04-01 15:45:03'
+  description: ''
+  difficulty: ''
+  directions:
+  - Pot to 190F with water
+  - Add masala mix and veggies including onion, cook for 1h-1.5
+  - Add lentil stuff from pressure cooker (10 min on high, wait 20 min)
+  - Add tamarind, salt to taste
+  - Make tadka
+  image_url: null
+  in_trash: false
+  ingredients:
+  - 4 tbsp dry from 165g Shan sambar masala box
+  - 3 cups water
+  - 2 bags frozen Deep brand 12oz sambar vegetables
+  - 1/2 onion, diced
+  - 1 tomato, diced
+  - 50g tamarind concentrate
+  - 'also:'
+  - 1 cup toor dal
+  - 850mL water
+  - 'tadka:'
+  - 4 tbsp ghee
+  is_pinned: false
+  name: Shan Sambar Masala
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: ''
+  rating: 0
+  scale: null
+  servings: ''
+  source: ''
+  source_url: ''
+  total_time: ''
+  uid: 81666A28-E545-460F-B930-163DC4152F79
 - categories: []
   cook_time: ''
   created: '2022-10-05 23:29:39'
@@ -2058,7 +2856,7 @@
     liquid. Garnish with choice of toppings and serve with a warmed corn tortilla.
   - Allow beans to cool completely before storing in an airtight container in the
     refrigerator. Finish leftovers within three days.
-  image_url: images/recipes/3455DCF0-663E-4B7E-A70A-2C9F05C70864.jpg
+  image_url: https://4.bp.blogspot.com/-kcVbXfqkLRw/VQZN4zdBDNI/AAAAAAAAMuc/nFCDjgx507I/s1600/150307frijoles110xOpen.jpg
   in_trash: false
   ingredients:
   - 3 Tbsp olive oil
@@ -2114,7 +2912,7 @@
     \ off the heat and let the dish rest, covered, for an hour before serving. When\
     \ ready to serve, heat thoroughly. Fold inthe garam masala and chopped coriander\
     \ leaves. Check for salt, and serve."
-  image_url: images/recipes/3C2EAA1A-FC2B-4F61-97AE-AA94C40C4EFC.jpg
+  image_url: https://cdn.vox-cdn.com/thumbor/ykc8z_uRB-WDDM5xiPkU9o9Q2JU=/0x557:7917x4702/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23321853/Dina_Avila_Matar_Paneer6591_1_1_1.jpg
   in_trash: false
   ingredients:
   - 'browned paneer:'
@@ -2158,7 +2956,7 @@
   uid: 88B3BCA6-993C-496D-886A-D84CAE79B3DD
 - categories: []
   cook_time: ''
-  created: '2022-08-17 20:01:48'
+  created: '2022-08-17 19:01:48'
   description: ''
   difficulty: ''
   directions:
@@ -2180,7 +2978,7 @@
   image_url: null
   in_trash: false
   ingredients:
-  - 4 chicken breasts
+  - 4 chicken breasts, chopped
   - butter and olive oil
   - Mrs. dash or other general seasoning
   - '5 cloves garlic '
@@ -2302,7 +3100,7 @@
     heat immediately.
   - Pour tadka over kadhi, garnish with more cilantro and serve punjabi kadhi pakora
     with rice!
-  image_url: images/recipes/EEA64E71-712A-41C1-91BE-3425AD84D14A.jpg
+  image_url: https://www.cookwithmanali.com/wp-content/uploads/2020/04/Punjabi-Kadhi-Pakora-500x500.jpg
   in_trash: false
   ingredients:
   - For Kadhi
@@ -2424,7 +3222,7 @@
   - "\xBC cup of shredded parmesan cheese"
   - "\xBC cup of roughly chopped parsley "
   is_pinned: false
-  name: Fresh Tomato Marinara Pasta
+  name: Fresh Tomato Marinara Pasta Sauce
   notes: ''
   nutritional_info: ''
   on_favorites: false
@@ -2432,12 +3230,85 @@
   photos: []
   prep_time: ''
   rating: 0
-  scale: 1/2
+  scale: 1/1
   servings: ''
   source: ''
   source_url: https://web.archive.org/web/20211117180316/https://prohomecooks.com/post/these-15-minute-dinners-will-change-your-life
   total_time: ''
   uid: 9415562C-5E47-4C86-9551-F4478D05AFE8
+- categories: []
+  cook_time: 10 mins
+  created: '2023-01-04 16:32:31'
+  description: ''
+  difficulty: ''
+  directions:
+  - Pat sablefish dry. Sprinkle fillets on both sides with salt and pepper.
+  - Allow fillets to rest at room temperature for about 15 minutes. (Cold fish is
+    more difficult to sear.)
+  - Add olive oil and half the butter to a heavy pan. Melt butter over medium heat.
+  - Place the fillets skin-side down in the pan and cook about 4 minutes, depending
+    on the thickness of the fillets.
+  - As the sablefish cooks, the flesh will begin to turn opaque from the bottom up.
+    When the fish has cooked halfway through, it's ready to flip.
+  - Avoid touching the fish until the fish is ready to flip.
+  - Use a thin metal spatula to test the fish. If you can slide the spatula under
+    the fish without the fish sticking to the pan, it's ready to flip. If the fillets
+    won't release, give them another 30 seconds. They'll release when they've finished
+    cooking.
+  - Cook fish about 4 minutes until done. Timing will depend on the thickness of the
+    fillet. (Watch the sides of the fillets to see when the fish is done cooking.
+    It's finished as soon as there are no more translucent patches and it's fully
+    opaque.)
+  - "Transfer the fish to plates, leaving the excess butter in the pan. Cover fish\
+    \ to keep warm, or set fish in a 200\xBAF oven."
+  - Reduce heat to medium-low. Add the remaining butter to the pan. The butter will
+    begin to foam, and then the foam will begin to subside.
+  - Watch for brown specks to appear in the butter and for the butter to start smelling
+    nutty. As soon as it begins to become golden (about 1 minute), add the lemon juice,
+    stir, and then remove from heat.
+  - Pour the butter sauce into a small bowl and mix with the honey and cayenne.
+  - Brush the butter sauce over the fish. You'll see that the sablefish is incredibly
+    soft and the flakes will be pulling apart, so the sauce will soak down into the
+    fish.
+  - Serve the fish right away along with any extra sauce.
+  image_url: https://champagne-tastes.com/wp-content/uploads/2021/02/pan-seared-sablefish-brown-butter-small-7-683x1024.webp
+  in_trash: false
+  ingredients:
+  - 8 ounces sablefish (black cod) Or substitute salmon
+  - pinch salt, pepper
+  - 1 tablespoon olive oil
+  - 2 tablespoons butter, divided Or use extra olive oil
+  - 1 lemon, juiced
+  - 1 tablespoon honey
+  - "\u215B teaspoon ground cayenne (optional)"
+  is_pinned: false
+  name: Pan-Seared Black Cod (Sablefish) with Brown Butter
+  notes: "Notes from Asheesh\n\nTry 300F for medium\n\nIf using cast iron, allow to\
+    \ fully come to temp by heating on low, may take 15 min.\n\nCooking Tips from\
+    \ recipe\n\nMake sure to pat the fish dry. Wet fish won\u2019t develop a crispy\
+    \ skin.\n\nMake sure to let the fish rest at room temperature for about 15 minutes.\
+    \ Cold fish tends to stick to the pan.\n\nTest the fish with a thin metal spatula\
+    \ before attempting to flip. If the fish doesn\u2019t release, give it another\
+    \ 30 seconds and try again.\n\nIf your butter and oil begin to smoke, lower the\
+    \ heat slightly.\n\nHave all your ingredients prepared before beginning so that\
+    \ you can watch the fish carefully while it cooks. I prep everything while the\
+    \ fish rests at room temperature."
+  nutritional_info: 'Calories: 288kcal (14%) | Carbohydrates: 14g (5%) | Protein:
+    18g (36%) | Fat: 19g (29%) | Saturated Fat: 8g (50%) | Trans Fat: 1g | Cholesterol:
+    83mg (28%) | Sodium: 445mg (19%) | Potassium: 352mg (10%) | Fiber: 2g (8%) | Sugar:
+    10g (11%) | Vitamin A: 421IU (8%) | Vitamin C: 29mg (35%) | Calcium: 27mg (3%)
+    | Iron: 1mg (6%)'
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: 15 mins
+  rating: 0
+  scale: null
+  servings: ''
+  source: Champagne-tastes.com
+  source_url: https://champagne-tastes.com/pan-seared-black-cod-brown-butter/
+  total_time: ''
+  uid: 977BF8B5-E710-4969-B829-079E3329981C
 - categories: []
   cook_time: ''
   created: '2022-08-21 12:05:01'
@@ -2480,7 +3351,7 @@
   - Add water, immediately cover with a lid and let steam for 3 minutes.
   - Remove lid and if any liquid remains let simmer until completely gone.
   - Let rest for 1 minute and plate. Cover with chili oil.
-  image_url: images/recipes/81466676-45EB-4E44-A13E-A17D61E60BA7.jpg
+  image_url: https://i.ytimg.com/vi/2KsYYmSGKOc/maxresdefault.jpg
   in_trash: false
   ingredients:
   - 'Chicken Adobo Ingredients:'
@@ -2523,6 +3394,47 @@
   total_time: ''
   uid: 9A3FBAF5-08BC-47E0-9B29-D1F5EFCB413F
 - categories: []
+  cook_time: 15 minutes
+  created: '2023-08-16 19:50:01'
+  description: ''
+  difficulty: ''
+  directions:
+  - You could either put all the ingredients in the pressure cooker in the order listed,
+    or you could follow the steps below.
+  - "Turn your Instant Pot or pressure cooker on Saut\xE9, and follow the steps in\
+    \ this order."
+  - Cut up the bacon and put it in the hot pressure cooker.
+  - Start dicing the onion and put it in as you cut it.
+  - Stir the bacon and onions and start cutting up the green beans.
+  - Add the beans, water, salt and pepper to the pot.
+  - Cook on high pressure for 4 minutes, and release all pressure immediately.
+  - Taste and add salt and pepper as needed before serving.
+  image_url: https://twosleevers.com/wp-content/uploads/2020/01/IP-Green-beans-with-Bacon-680-x-1020.jpg
+  in_trash: false
+  ingredients:
+  - 1 cup (160 g) Onion, diced
+  - 5 slices (5 slices) Bacon, diced
+  - 6 cups (660 g) green beans, cut in half
+  - 1 teaspoon (1 teaspoon) Kosher Salt
+  - 1 teaspoon (1 teaspoon) Ground Black Pepper
+  - 1/4 cup (62.5 g) Water
+  is_pinned: false
+  name: "Joy\u2019s Instant Pot Green Beans | Green Beans with Bacon"
+  notes: ''
+  nutritional_info: 'Calories: 122kcal | Carbohydrates: 10g | Protein: 4g | Fat: 7g
+    | Fiber: 3g | Sugar: 4g'
+  on_favorites: true
+  on_grocery_list: false
+  photos: []
+  prep_time: 10 minutes
+  rating: 0
+  scale: null
+  servings: ''
+  source: twosleevers.com
+  source_url: https://twosleevers.com/green-beans-with-bacon/
+  total_time: ''
+  uid: 9DBC2415-7F56-4A95-825A-148038A14765
+- categories: []
   cook_time: ''
   created: '2022-08-17 23:46:40'
   description: ''
@@ -2564,6 +3476,122 @@
   source_url: ''
   total_time: ''
   uid: 9ED67C1F-AB09-40E3-B4D4-4EEE4B409919
+- categories: []
+  cook_time: 5 minutes
+  created: '2023-04-01 11:01:02'
+  description: ''
+  difficulty: ''
+  directions:
+  - 'Stovetop Method:'
+  - Firstly, boil the potatoes in a stovetop pressure cooker for 3-4 whistles with
+    little water on medium heat and let the pressure release naturally.
+  - You can also boil potatoes in the Instant Pot. Or you can also cook them in a
+    large pot until just tender, about 15 minutes, drain, and set aside.
+  - Once it is cooled, peel, dice and then roughly mash it. Don't mash it completely.
+  - Heat the Kadai, add oil, once it's hot add mustard seeds, cumin, urad dal, chana
+    dal, and saute it till dals become light brown.
+  - Then add green chilies, curry leaves, ginger, and asafetida and saute it for a
+    few seconds.
+  - Now add onion, turmeric powder, salt and saute it for 2-3 minutes or till onions
+    turn light brown.
+  - Then add boiled & mashed potato and mix it well, close the lid, and cook for 2
+    minutes. Turn off the flame.
+  - Lastly, add coriander leaves, squeeze lemon juice and, mix it well. Potato/Aloo
+    Masala filling for Dosa recipe is ready to serve.
+  - 'Instant Pot Method:'
+  - "Firstly Peel and dice the potatoes into \xBE -1 inch cubes. I used Yukun gold\
+    \ potatoes about 400 grams."
+  - Press SAUTE on Instant Pot. Add oil, Once hot, add mustard seeds, cumin, urad
+    dal, chana dal, and saute it till dals become light brown.
+  - Then add green chilies, curry leaves, ginger, asafetida and saute it for 30 secs.
+  - Now add onion, turmeric powder, salt and saute it for 2-3 minutes or till onions
+    turn light brown.
+  - "Add diced potatoes and along with \u2153 cup of water. Deglaze the pot i.e.,\
+    \ Make sure to scrap any spice if sticking to the pot to avoid BURN alert."
+  - Close the Instant Pot with pressure valve to Sealing. Cook on High Pressure for
+    4 minutes.
+  - When the instant pot beeps, Do a QUICK RELEASE (QR).
+  - Remove lid away from you, sprinkle coriander leaves and lemon juice, Mix well.
+  - You can also roughly mash using potato masher according to your preference.
+  - Variations
+  - 'Add vegetables: You can add other vegetables to the potato masala to make it
+    more nutritious and flavorful. Some popular choices include peas, carrots, cauliflower,
+    and bell peppers.'
+  - 'Make it spicy: Add extra green chilies to make it extra spicy.'
+  - 'Add protein: You can add a protein like crumbled or shredded paneer (Indian cottage
+    cheese) or tofu to the dish.'
+  - 'Add nuts: You can add roasted peanuts or cashews to add crunch and nutty flavor
+    to the aloo masala.'
+  image_url: https://www.indianveggiedelight.com/wp-content/uploads/2017/07/final_potatomasala-copy.jpg
+  in_trash: false
+  ingredients:
+  - 2 tablespoons oil
+  - 1 teaspoon mustard seeds
+  - "\xBD teaspoon cumin (jeera) seeds"
+  - 1 teaspoon split urad dal optional
+  - 1 teaspoon chana dal (bengal gram) optional
+  - 2 green chilies finely chopped
+  - 1 stalk curry leaves
+  - 1 inch ginger minced
+  - a pinch asafoetida (hing) optional
+  - 1 large onion sliced thinly lengthwise (about 1 cup)
+  - "\xBC teaspoon turmeric powder"
+  - 3 medium yukon gold potato about 400 grams
+  - salt to taste
+  - juice of half lime
+  - 2 tablespoon fresh coriander leaves
+  is_pinned: false
+  name: Potato Masala for Dosa (Aloo Masala)
+  notes: 'Tips to make the Best Potato Masala
+
+
+    Choose the right potatoes: Idaho potatoes, Yukon gold potatoes, and Russet potatoes
+    are the best potatoes for making potato masala.
+
+
+    Tempering with the spices: Make sure to include tempering ingredients like mustard
+    seeds, cumin, urad dal, chana dal, curry leaves, green chilies, and ginger to
+    get the restaurant-style flavor of the dish.
+
+
+    Make it creamy: Adding little milk at the end adds creaminess and richness to
+    the dish.'
+  nutritional_info: 'Calories: 242kcal
+
+    Carbohydrates: 27g
+
+    Protein: 3.8g
+
+    Fat: 14g
+
+    Cholesterol: 0mg
+
+    Sodium: 41mg
+
+    Potassium: 724mg
+
+    Fiber: 4.1g
+
+    Sugar: 4.5g
+
+    Vitamin A: 800IU
+
+    Vitamin C: 52.8mg
+
+    Calcium: 50mg
+
+    Iron: 2.3mg'
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: 15 minutes
+  rating: 0
+  scale: null
+  servings: 'Servings: 4'
+  source: Indianveggiedelight.com
+  source_url: https://www.indianveggiedelight.com/potato-masala/
+  total_time: ''
+  uid: A772F75D-8133-4A3C-A705-81F82B742885
 - categories:
   - Untested
   cook_time: 9 hrs 30 mins
@@ -2582,7 +3610,7 @@
     Toss to coat with dressing and season to taste with salt and pepper. Serve immediately,
     or for better results, store overnight in a covered container in the refrigerator.
     Salad will keep for up to three days.
-  image_url: images/recipes/881207AB-0628-46A8-B89F-042E9D96000F.jpg
+  image_url: https://www.seriouseats.com/thmb/XeK87fjnB1oxN1g7mMAN5uk-DR0=/375x250/filters:max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__10__20141013-chickpea-salad-bacon-celery-cumin-rajas-1-3ca35f0b12eb4d898aee1063f58de6a2.jpg
   in_trash: false
   ingredients:
   - 1/2 pound dried chickpeas (garbanzo beans), soaked overnight in cold salted water
@@ -2666,7 +3694,7 @@
   - "Add the fish and gently poach for 5\u20136 minutes."
   - Serve with steamed basmati rice if desired, garnished with coconut cream and fresh
     coriander.
-  image_url: images/recipes/5D0E830B-1330-443C-B983-4FE92681D202.jpg
+  image_url: https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/fish_curry_98168_16x9.jpg
   in_trash: false
   ingredients:
   - 3 tbsp sunflower oil
@@ -2701,109 +3729,6 @@
   uid: AC499E3F-8C60-441D-8540-F4ABD11F14BF
 - categories:
   - Untested
-  cook_time: 75 mins
-  created: '2022-09-26 21:55:43'
-  description: ''
-  difficulty: ''
-  directions:
-  - "Adjust oven racks to upper and lower-middle positions and preheat oven to 350\xB0\
-    F (180\xB0C). Line a rimmed baking sheet with paper towels. Spread chickpeas on\
-    \ top and roll around under your hands to thoroughly dry. Transfer chickpeas to\
-    \ a large bowl. Add 1 tablespoon olive oil, cumin, and paprika. Season to taste\
-    \ with salt and pepper. Discard paper towels and line baking sheet with aluminum\
-    \ foil. Spread chickpeas over foil and transfer to oven. Roast on upper rack,\
-    \ shaking pan occasionally, until chickpeas are about 3/4 their original size\
-    \ with a dense, nutty texture, about 1 hour. Remove from oven and let cool slightly."
-  - Meanwhile, add kale to now-empty chickpea bowl. Add 1 tablespoon olive oil, season
-    with salt and pepper, and massage kale until well-coated in oil. Set aside at
-    room temperature.
-  - Place pine nuts in a skillet and transfer to lower rack of oven. Toast, stirring
-    occasionally, until pine nuts are deep golden brown, about 15 minutes. Remove
-    from oven and transfer to a bowl. Set aside.
-  - In a medium bowl, combine sun-dried tomatoes, scallions, garlic, lemon juice,
-    zest, hot sauce, vinegar, and remaining 3 tablespoons oil. Season with salt and
-    pepper and stir well with a fork.
-  - When chickpeas are cooked and slightly cooled, add to bowl with kale. Add pine
-    nuts, sun-dried tomato dressing, cilantro, and mint. Toss with hands until well-combined.
-    Adjust seasoning with more salt, pepper, and/or lemon juice as necessary.
-  - The massaged kale with sun-dried tomato vinaigrette keeps very well in the fridge,
-    retaining its crunch and developing flavor over a couple days. Store in an airtight
-    container in the fridge. Before serving, add the roasted chickpeas, pine nuts,
-    cilantro, and mint. Toss gently until well-combined.
-  image_url: images/recipes/A0616B09-4BA0-4FC3-813D-FBDF37173829.jpg
-  in_trash: true
-  ingredients:
-  - 1 (28-ounce) can chickpeas, rinsed and drained
-  - 5 tablespoons extra-virgin olive oil, divided
-  - 1/2 teaspoon ground cumin
-  - 1/2 teaspoon paprika
-  - Kosher salt and freshly ground black pepper
-  - 1 small bunch curly kale, trimmed and thinly sliced (about 1 quart of greens)
-  - 1/2 cup pine nuts
-  - 1/2 cup sun-dried tomatoes, thinly sliced
-  - 4 scallions, white and light green parts only, thinly sliced
-  - 1 medium clove garlic, grated (about 1 teaspoon)
-  - 2 tablespoons juice and 1 teaspoon zest from 1 lemon, plus more juice as desired
-  - 1/2 teaspoon hot sauce, such as Frank's
-  - 2 teaspoons sherry or red wine vinegar
-  - 1 cup fresh cilantro leaves, roughly chopped
-  - 1 cup fresh mint leaves, roughly chopped
-  is_pinned: false
-  name: Roasted-Chickpea and Kale Salad with Sun-Dried Tomato Vinaigrette
-  notes: ''
-  nutritional_info: '(per serving)
-
-    359 Calories 22g Fat 34g Carbs 12g Protein
-
-    Nutrition Facts
-
-    Servings: 4 to 6
-
-    Amount per serving
-
-    Calories 359
-
-    % Daily Value*
-
-    Total Fat 22g 28%
-
-    Saturated Fat 2g 12%
-
-    Cholesterol 0mg 0%
-
-    Sodium 712mg 31%
-
-    Total Carbohydrate 34g 12%
-
-    Dietary Fiber 10g 35%
-
-    Total Sugars 8g
-
-    Protein 12g
-
-    Vitamin C 44mg 220%
-
-    Calcium 131mg 10%
-
-    Iron 5mg 29%
-
-    Potassium 741mg 16%
-
-    *The % Daily Value (DV) tells you how much a nutrient in a food serving contributes
-    to a daily diet. 2,000 calories a day is used for general nutrition advice.'
-  on_favorites: false
-  on_grocery_list: false
-  photos: []
-  prep_time: ''
-  rating: 0
-  scale: null
-  servings: 4 to 6 servings
-  source: seriouseats.com
-  source_url: https://www.seriouseats.com/roasted-chickpea-kale-salad-sun-dried-tomato-vinaigrette-herb
-  total_time: ''
-  uid: AE9633B9-D98C-43D9-8234-A7E359FE1CF7
-- categories:
-  - Untested
   cook_time: 20 mins
   created: '2022-09-26 21:26:59'
   description: ''
@@ -2823,7 +3748,7 @@
     and mixture has a tender, spoonable consistency that is not runny, about 4 minutes.
     Stir in cilantro and season to taste with salt and pepper.
   - Serve immediately with warm tortillas and extra salsa for making tacos.
-  image_url: images/recipes/FE3A56CF-841C-4E60-BAA1-6B116A304429.jpg
+  image_url: https://www.seriouseats.com/thmb/cMefGNCJdHlV5PFE8pN58ep4XTo=/880x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2016__03__20160316-vegan-migas-vigas-recipe-11-a5d061fcd3de4834b2b635efdf36d5ce.jpg
   in_trash: false
   ingredients:
   - 2 medium plum tomatoes, diced (about 6 ounces; 170g)
@@ -2894,6 +3819,49 @@
   total_time: ''
   uid: B2275062-9775-4761-AB98-D7619EE7C226
 - categories: []
+  cook_time: ''
+  created: '2024-01-11 13:17:58'
+  description: ''
+  difficulty: ''
+  directions:
+  - Fry cumin seeds in oil pan 375
+  - 'Add potatoes, cook five minutes covered, browned them '
+  - "Drop the green beans if you\u2019re gonna "
+  - 'Once potatoes are brown, add the beans '
+  - 'Add the spices '
+  - 'Lower temperature to 275 '
+  - 'Cover, stir every 10 minutes, done in 20 or 25 minutes, check the potatoes. '
+  - "If you\u2019re using 7 to 8 inch beans, pull the string. Only important is the\
+    \ beans\u2026 Some thing. "
+  image_url: null
+  in_trash: false
+  ingredients:
+  - 2 tsp cumin seeds
+  - "\xBE lb potatoes cut into 1-2 inch pieces"
+  - 1 lb green beans (frozen ok, chopped if possible)
+  - 1 tsp salt
+  - 1 tsp deggi mirch
+  - 1 tsp haldi
+  - 1-2 whole dried chili cut in two
+  - 1 tsp ground cumin
+  - 2 tsp ground coriander
+  - 1 tsp garam masala
+  is_pinned: false
+  name: Aloo Beans Ala Mom
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: ''
+  rating: 0
+  scale: null
+  servings: ''
+  source: ''
+  source_url: ''
+  total_time: ''
+  uid: B277A895-8B4E-4B95-9C48-8A1CE44B17DF
+- categories: []
   cook_time: 35mins
   created: '2022-11-12 15:52:55'
   description: ''
@@ -2911,7 +3879,7 @@
   - Add fish and cook for 4 minutes or until just cooked.
   - Turn off pan. Season with lime juice and salt.
   - Serve with rice, fresh coriander, deep-fried curry leaves.
-  image_url: images/recipes/F0DE156B-80D0-45BE-BA02-CB6B364C8BC9.jpg
+  image_url: null
   in_trash: false
   ingredients:
   - 'Spice paste:'
@@ -2951,8 +3919,7 @@
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
-  photos:
-  - '1': images/recipes/F0DE156B-80D0-45BE-BA02-CB6B364C8BC9.jpg
+  photos: []
   prep_time: 20mins
   rating: 0
   scale: 1/1
@@ -2978,7 +3945,7 @@
     Cover and cook over high heat for one minute until just wilted. Uncover and stir-fry
     for another 30 seconds, then stir in the chives or cilantro and remove from the
     heat. The cabbage should be crisp-tender. Serve with rice or noodles.
-  image_url: images/recipes/3D4329F1-CA9D-4A36-9913-28DDCE76D286.jpg
+  image_url: https://static01.nyt.com/images/2010/11/03/science/02recipehealth/02recipehealth-articleLarge-v2.jpg
   in_trash: false
   ingredients:
   - 4 garlic cloves, minced
@@ -3091,7 +4058,7 @@
     cook 5 minutes more, until rice and lentils are tender and greens are wilted.
     Remove from heat and let stand, covered, for 5 minutes. Serve sprinkled with reserved
     crispy leeks.
-  image_url: images/recipes/4244F94A-3FAE-43BB-8159-620AC6401D79.jpg
+  image_url: https://static01.nyt.com/images/2014/07/31/dining/mujadaravideo/mujadaravideo-mediumThreeByTwo440.jpg
   in_trash: false
   ingredients:
   - 1 cup brown or green lentils
@@ -3138,36 +4105,6 @@
   source_url: https://cooking.nytimes.com/recipes/1014804-one-pot-mujadara-with-leeks-and-greens
   total_time: 35 min
   uid: C3827C65-9A76-4506-9D14-409E570FC7F7
-- categories: []
-  cook_time: ''
-  created: '2022-08-28 20:06:26'
-  description: ''
-  difficulty: ''
-  directions:
-  - Big frying pan to 365F.
-  - Cook for 7 min stirring halfway.
-  - Refrigerate for later use.
-  image_url: null
-  in_trash: true
-  ingredients:
-  - '- 1/2 onion fine-diced'
-  - '- 4 stems collard greens fine-diced'
-  - '- Solid pouring of olive oil'
-  is_pinned: false
-  name: Fine-diced collard green stems w/ caramelized-ish onions
-  notes: ''
-  nutritional_info: ''
-  on_favorites: false
-  on_grocery_list: false
-  photos: []
-  prep_time: ''
-  rating: 0
-  scale: null
-  servings: ''
-  source: ''
-  source_url: ''
-  total_time: ''
-  uid: C3F5C267-07F9-41E1-BB49-4374694AD9E0
 - categories: []
   cook_time: ''
   created: '2022-08-14 16:00:00'
@@ -3220,7 +4157,7 @@
     if needed.
   - Place in the refrigerator and allow flavors to meld for at least 1 hour and up
     to 4 hours. Stir in cilantro and serve cold or at room temperature.
-  image_url: images/recipes/D111305E-3DB4-4645-A3F6-21F4E38AE6FE.jpg
+  image_url: https://www.seriouseats.com/thmb/jwqIck6su7g23P4F177ZWXlJfpU=/880x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__06__060614-294924-Serious-Eats-Bean-Salads-Pinto-Rice-7e4b35bcacd94507b7e80df5c245607c.jpg
   in_trash: false
   ingredients:
   - 1 (14.5-ounce) can pinto beans, drained and rinsed
@@ -3271,7 +4208,7 @@
     The spinach will quickly start to wilt so be sure to give it a stir to get everything
     mixed together once that starts to happen.
   - Leave cooking for another 2 to 3 hours, until the potatoes are tender.
-  image_url: images/recipes/96742B5B-C6E7-41DB-AC15-A4C5F4488702.jpg
+  image_url: https://www.happyveggiekitchen.com/wp-content/uploads/2016/04/1-slow-cooker-sag-aloo-041-720x720.jpg
   in_trash: false
   ingredients:
   - 2 small onions, or 1 very large, chopped
@@ -3324,7 +4261,7 @@
   - Cover the pan and cook
   - Sprinkle oil over cabbage
   - Cabbage curry is done
-  image_url: images/recipes/295B32D2-CAEF-42A2-AB9B-077BC958617B.jpg
+  image_url: http://www.northindiancooking.com/uploads/5/4/5/8/5458615/published/cabbage-2.jpg?1544321676
   in_trash: false
   ingredients:
   - 1 Head of cabbage (about 2 pounds)
@@ -3386,33 +4323,34 @@
     cumin seeds to toast.
   - Drop pan to 300F. Cook for 10-14 minutes, stirring every 2 min.
   - Once dal & tadka are both cooked, pour this into lentils.
-  image_url: images/recipes/D5FE8766-2747-4E1D-BBA9-366482D15A90.jpg
+  image_url: https://tasteasianfood.com/wp-content/uploads/2020/12/masoor-dal-150x150.jpeg.webp
   in_trash: false
   ingredients:
   - Ingredients A (masala mix)
-  - A1
+  - Group A1
   - 2 tbsp ghee
-  - A2
-  - 1 tsp cumin seeds
-  - A3
-  - 2 tsp ginger garlic paste
+  - Group A2
+  - 1 tsp 2.5g cumin seeds
+  - Group A3
+  - 5g garlic
+  - 5g ginger
   - 1 green chili, cut into sections
-  - A4
+  - Group A4
   - 150g (one medium) onion, small dice
-  - A5
+  - Group A5
   - 300g (two medium) tomatoes, coarsely chopped
-  - A6
-  - 1/2 tsp coriander powder
+  - Group A6
+  - 1/2 tsp coriander powder (tsp is 2g)
   - 1/2 tsp turmeric powder
   - 1/2 tsp Kashmiri chili powder
   - 1.5 tsp salt
   - 1/2 tsp garam masala
-  - Ingredients B (to cook the lentils)
+  - Group B (to cook the lentils)
   - 250g (one cup) masoor dal
   - 750ml (three cups) water
   - 2 tbsp coriander leaves
   - 1 tsp kasuri methi OPTIONAL
-  - Ingredients C (for the tadka)
+  - Group C (for the tadka)
   - 2 tbsp ghee
   - 1.5 tsp cumin seeds
   - 2 dried chili, seeds removed and sectioned
@@ -3420,20 +4358,240 @@
   - 1/4 tsp Kashmiri chili powder
   is_pinned: false
   name: Masoor Dal w/ tadka
-  notes: ''
+  notes: '5G garlic
+
+    5G ginger
+
+
+    Needed slightly more salt'
   nutritional_info: ''
   on_favorites: true
   on_grocery_list: false
-  photos:
-  - '1': images/recipes/FD8E1433-F345-4DCF-BA45-D67730342FE0.jpg
+  photos: []
   prep_time: 15 minutes
   rating: 0
-  scale: ''
+  scale: 1/1
   servings: 'Yield: 2 servings'
   source: tasteasianfood.com
   source_url: https://tasteasianfood.com/masoor-dal/
   total_time: ''
   uid: D2476245-23F5-4C25-9B36-8604504A057D
+- categories: []
+  cook_time: 30 mins
+  created: '2023-04-01 11:02:30'
+  description: ''
+  difficulty: ''
+  directions:
+  - Making Tamarind Pulp
+  - Soak the tamarind in hot water for 20 to 30 minutes.
+  - Once the tamarind gets soft, then squeeze the tamarind in the water itself. Discard
+    the strained tamarind and keep the tamarind pulp aside.
+  - Cooking Lentils
+  - Rinse tuvar dal a couple of times in water.
+  - "Drain all the water and add the dal in a 2 litre pressure cooker. Also add \xBC\
+    \ teaspoon turmeric powder."
+  - Add 1.5 to 1.75 cups water and mix. Cover and pressure cook dal for 7 to 8 whistles
+    or 9 to 10 minutes on medium heat.
+  - When the pressure settles down on its own, open the lid and check the dal. The
+    dal should be completely cooked and mushy.
+  - Mash the dal with a spoon or wired whisk. Cover and keep aside. You can see the
+    consistency of dal in the pic below.
+  - Cooking Vegetables
+  - "When the dal is pressure cooking \u2013 rinse, peel and chop the vegetables."
+  - Take the chopped vegetables in a pan or pot. Also add 6 to 7 pearl onions or 1
+    small to medium onion (thickly sliced) and 1 small to medium tomato (quartered).
+  - Sprinkle turmeric powder, kashmiri red chilli powder and salt as per taste. Adding
+    kashmiri red chili powder is optional and can be skipped.
+  - Add 1.5 to 2 cups water and stir.
+  - Keep the pan on a stove top and begin to cook vegetables on a medium-low to medium
+    flame. In between do check when the vegetables are cooking.
+  - "Cook till the vegetables are almost done. Ensure that you don\u2019t over cook\
+    \ the vegetables."
+  - Making Sambar
+  - Once the vegetables are almost cooked, then add the tamarind pulp and 1 to 1.5
+    tablespoons sambar powder. Mix well.
+  - Add the mashed dal. Mix again very well.
+  - Simmer on a medium-low heat till the sambar comes to a boil.
+  - You will see a frothy layer on top when the sambar begins boiling. At this step
+    switch off the heat. Cover and set aside.
+  - Tempering
+  - "In a small pan or tadka pan, heat 2 tablespoons gingelly oil. Add \xBD tsp mustard\
+    \ seeds."
+  - Let the mustard seeds crackle.
+  - Then add 1 to 2 dry red chillies (halved and seeds removed).
+  - Immediately add 10 to 12 curry leaves, 5 to 6 methi seeds and 2 pinches of asafoetida
+    (hing). Be careful as the oil splutters while adding curry leaves.
+  - Fry them till the red chilies change color and curry leaves become crisp.
+  - Immediately add this tempering mixture in the hot sambar.
+  - Cover the pan with its lid for 4 to 5 minutes, so that the aroma and flavors from
+    the tempering mixture gets infused with the sambar.
+  - Storage And Leftovers
+  - Store any leftovers in the refrigerator for a day only. Note that the consistency
+    will thicken after refrigeration. Add some water and mix to get your desired consistency
+    while reheating in a pan.
+  image_url: https://www.vegrecipesofindia.com/wp-content/uploads/2021/05/sambar-recipe-3.jpg
+  in_trash: false
+  ingredients:
+  - 1 tablespoon tamarind pulp
+  - For Cooking Dal
+  - "\xBD cup tur dal or arhar dal (pigeon pea lentils) \u2013 100 grams"
+  - "\xBC teaspoon turmeric powder (ground turmeric)"
+  - 1.75 cups water
+  - For Cooking Vegetables
+  - 1 to 1.5 cups chopped vegetables like okra, french beans, potatoes, small round
+    brinjals, pumpkin
+  - "1 to 2 drumsticks \u2013 scraped and chopped in 3 to 4 inches sticks."
+  - 6 to 7 pearl onions (sambar onions) or 1 small to medium onion, thickly sliced
+  - "1 tomato \u2013 small to medium, quartered or diced"
+  - "\xBC teaspoon turmeric powder (ground turmeric)"
+  - "\xBD teaspoon kashmiri red chilli powder \u2013 optional"
+  - salt as required
+  - 1.5 to 2 cups water or add as required
+  - For Tempering
+  - 2 tablespoons sesame oil (gingelly oil), can also use coconut oil or sunflower
+    oil or ghee
+  - "\xBD teaspoon mustard seeds"
+  - "1 to 2 dry red chillies \u2013 halved and seeds removed"
+  - 10 to 12 curry leaves
+  - 2 pinch asafoetida (hing)
+  - "5 to 6 fenugreek seeds (methi seeds) \u2013 optional"
+  - For Garnish
+  - "1 tablespoon chopped coriander leaves (cilantro) \u2013 optional"
+  is_pinned: false
+  name: Sambar Recipe | Authentic South Indian Sambar
+  notes: 'Sambar Powder: The sambar powder can make or break your sambar. Use the
+    best sambar powder. It can be homemade or from your favorite brand. Sambar powder
+    is easily available online.
+
+
+    Vegetables: The mix of various vegetables add plenty of their unique flavor and
+    taste to sambar. Thus depending on the type of vegetables used, your sambar recipe
+    will taste different every time. I prefer to add a mix of drumsticks, brinjals,
+    pumpkin or ash gourd, pearl onions (shallots), carrots and okra. Feel free to
+    mix and match the veggies from the list mentioned in the post.
+
+
+    Lentils: Try to use fresh and preferably unpolished tuvar dal for best flavor
+    and health reasons. The fresher the dal is the better it tastes and cooks faster.
+    For faster cooking, you can opt to soak the lentils in water for 30 to 60 minutes.
+
+
+    Cooking Lentils: The lentils can be cooked in an Instant Pot or pan on the stove
+    top. Add water as needed. The lentils should be softened and mushy.
+
+
+    Tamarind: I suggest to use fresh tamarind. If you use aged tamarind, then it will
+    be darker in color and more sour. So add a bit less of the dark tamarind than
+    what is mentioned in this recipe.
+
+
+    Cooking Vegetables: Always cook the vegetables till they are done but whole. They
+    should not break or become a mush in the sambar. So when cooking, add vegetables
+    which cook slower first and cook them for some minutes. Then add vegetables which
+    cook faster. Note that The vegetables can also be steamed in a steamer or pressure
+    cooker or Instant pot.'
+  nutritional_info: 'Saturated Fat 1g
+
+    Sodium 60mg
+
+    Potassium 700mg
+
+    Carbohydrates 38g
+
+    Fiber 13g
+
+    Protein 11g
+
+    Calcium 81mg
+
+    Iron 4.1mg'
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: 15 mins
+  rating: 0
+  scale: 2/1
+  servings: ''
+  source: Vegrecipesofindia.com
+  source_url: https://www.vegrecipesofindia.com/sambhar-recipe-a-method-made-easy/
+  total_time: ''
+  uid: D368E3DF-8C82-44D8-A775-58030BDD80C1
+- categories: []
+  cook_time: 20 mins
+  created: '2023-12-14 12:14:04'
+  description: ''
+  difficulty: ''
+  directions:
+  - "1- Boil the potatoes until done \u2013 7 to 8 whistles on high heat on regular\
+    \ pressure cooker or 10 mins on high pressure in Instant Pot with natural pressure\
+    \ release. You can also boil them on stove-top pan until done."
+  - "They shouldn\u2019t crumble once boiled and should still be able to hold their\
+    \ shape."
+  - 2- Once boiled, peel the potatoes and chop them into cubes. Set it aside.
+  - "3- Heat oil in a pan on medium heat. Once the oil is hot add the cumin seeds,\
+    \ let them sizzle. Immediately lower the heat so that cumin seeds don\u2019t burn."
+  - 4- Then add the crushed coriander seeds and hing (if using) and saute for few
+    seconds. Add the green chili and ginger and saute for a minute until the ginger
+    starts changing color.
+  - 5- Add in the boiled and cubed potatoes to the pan and toss with the spices.
+  - 6- Add turmeric, red chili powder and salt. Toss to combine potatoes with all
+    the spices.
+  - 7- Let the potatoes cook for 2 to 3 minutes on medium heat, then add the chopped
+    cilantro.
+  - Garnish with more cilantro and serve jeera aloo with paratha or as a side dish
+    with dal and rice.
+  - Boil the potatoes until done - 7 to 8 whistles on high heat on regular pressure
+    cooker or 10 mins on high pressure in Instant Pot with natural pressure release.
+    You can also boil them on stove-top pan until done.
+  - They shouldn't crumble once boiled and should still be able to hold their shape.
+  - Once boiled, peel the potatoes and chop them into cubes. Set it aside.
+  - Heat oil in a pan on medium heat. Once the oil is hot add the cumin seeds, let
+    them sizzle. Immediately lower the heat so that cumin seeds don't burn.
+  - Then add the crushed coriander seeds and hing (if using) and saute for few seconds.
+  - Add the green chili and ginger and saute for a minute until the ginger starts
+    changing color.
+  - Add in the boiled and cubed potatoes to the pan and toss with the spices.
+  - Add turmeric, red chili powder and salt. Toss to combine potatoes with all the
+    spices.
+  - Let the potatoes cook for 2 to 3 minutes on medium heat, then add the chopped
+    cilantro.
+  - Squeeze in fresh lemon juice to finish it off.
+  - Garnish with more cilantro and serve jeera aloo with paratha or as a side dish
+    with dal and rice.
+  image_url: https://cdn.jwplayer.com/v2/media/NcwCSjsu/poster.jpg?width=640
+  in_trash: false
+  ingredients:
+  - 1X 2X 3X
+  - 3 medium potatoes 600 grams, boiled and cubed
+  - 2 tablespoons oil I used vegetable oil
+  - 2 teaspoons cumin seeds
+  - 1.5 teaspoon coriander seeds crushed
+  - generous pinch hing optional, also known as asafoetida
+  - 2 green chilies chopped
+  - 1 inch ginger chopped
+  - 1/2 teaspoon turmeric powder
+  - 1/4 teaspoon red chili powder or adjust to taste
+  - 1/2 teaspoon salt or to taste
+  - 2 teaspoons chopped cilantro
+  - half lemon juice of
+  is_pinned: false
+  name: Jeera Aloo by manali
+  notes: Skip hing (asafoetida) to make it gluten-free or use a gluten-free hing.
+    You can find it online.
+  nutritional_info: 'Calories: 169kcal, Carbohydrates: 22g, Protein: 4g, Fat: 7g,
+    Sodium: 385mg, Potassium: 687mg, Fiber: 5g, Vitamin A: 50IU, Vitamin C: 20.9mg,
+    Calcium: 63mg, Iron: 6.1mg'
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: 5 mins
+  rating: 0
+  scale: null
+  servings: 'Servings: 4 people'
+  source: cookwithmanali.com
+  source_url: https://www.cookwithmanali.com/jeera-aloo/
+  total_time: ''
+  uid: D3EABD8F-41E3-4215-A45D-E13084BC267A
 - categories: []
   cook_time: bake 16-20 minutes
   created: '2022-12-10 16:23:29'
@@ -3482,7 +4640,7 @@
     eating. They are a little crumbly/delicate, but will harden up and not be as crumbly
     once stored in the fridge for a few hours. Store in an airtight container for
     up to a week.
-  image_url: images/recipes/EB1A42CF-7E30-43A0-A97F-1B87BE1E6EC8.jpg
+  image_url: https://kate-cooks.com/wp-content/uploads/2021/06/pistachio+brown+butter+sable+final-1-1024x682.jpg
   in_trash: false
   ingredients:
   - 1/2 cup + 2 tablespoons (70g) pistachios, chopped
@@ -3497,7 +4655,7 @@
   - 1 cup (110g) powdered sugar
   - 1 teaspoon vanilla
   - 2-3 tablespoons water
-  is_pinned: true
+  is_pinned: false
   name: Brown Butter, Pistachio & Cardamom Shortbread Cookies
   notes: ''
   nutritional_info: ''
@@ -3527,7 +4685,7 @@
   - Bake in the preheated oven until topping is golden, 40 to 45 minutes. Cool slightly
     before serving.
   - NAPLES34102
-  image_url: images/recipes/4E216859-C291-4DFF-82D1-577D00F67292.jpg
+  image_url: https://www.allrecipes.com/thmb/kACCV2AdaCbkQP4nsZFFmUbp4P8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1046883-apple-crisp-perfect-and-easy-naples34102-e505af44f7d9409ba48fc00e15efa036.jpeg
   in_trash: false
   ingredients:
   - "2 \xBD cups apples - peeled, cored, and sliced"
@@ -3556,6 +4714,72 @@
   total_time: ''
   uid: DB085AC5-E437-4143-80E7-929A2AACB82B
 - categories: []
+  cook_time: 7 min
+  created: '2023-08-26 17:38:08'
+  description: ''
+  difficulty: ''
+  directions:
+  - "To prepare the collards: Cut out the thick center rib out of each collard green.\
+    \ Stack the rib-less greens and roll them up into a cigar-like shape. Slice over\
+    \ the \u201Ccigar\u201D as thinly as possible (\u215B\u2033 to \xBC\u2033) to\
+    \ make long strands. Shake up the greens and give them a few chops so the strands\
+    \ aren\u2019t so long."
+  - Heat a large, heavy-bottomed skillet over medium-high heat, then add the olive
+    oil. Once the oil is shimmering, add all of the collard greens and the salt.
+  - Stir until all of the greens are lightly coated in oil, then let them cook for
+    about 30 seconds before stirring again. Continue stirring in 30-second intervals
+    until the greens are wilted, dark green, and some are starting to turn browns
+    on the edges (this is delicious). This will take between 3 to 6 minutes.
+  - "Once the collards are just about done, add the garlic and red pepper flakes (if\
+    \ using). Stir to break up the garlic and cook until it\u2019s fragrant, about\
+    \ 30 seconds. Remove the pan from the heat."
+  - Immediately divide the cooked collards onto plates, and serve with a lemon wedge
+    each.
+  image_url: https://cookieandkate.com/images/2019/03/bestcollard-greens-recipe-3-768x1154.jpg
+  in_trash: false
+  ingredients:
+  - 1 large bunch (about 10 ounces) collard greens
+  - "1 \xBD tablespoons extra-virgin olive oil"
+  - "\xBC teaspoon fine sea salt"
+  - 2 medium cloves garlic, pressed or minced
+  - Pinch of red pepper flakes (optional, scale back or omit if sensitive to spice)
+  - A couple lemon wedges, for serving
+  is_pinned: false
+  name: untested flash fried Quick Collard Greens
+  notes: ''
+  nutritional_info: 'Fat: 11.4 g
+
+    Calories: 140 calories
+
+    Saturated Fat: 1.6 g
+
+    Sodium: 304.6 mg
+
+    Fiber: 5.7 g
+
+    Cholesterol: 0 mg
+
+    Carbohydrate: 8.8 g
+
+    Sugar: 0.7 g
+
+    Serving Size: 1 side serving
+
+    Trans Fat: 0 g
+
+    Protein: 4.5 g'
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: 8 min
+  rating: 0
+  scale: null
+  servings: '2'
+  source: cookieandkate.com
+  source_url: https://cookieandkate.com/quick-collard-greens-recipe/
+  total_time: ''
+  uid: DBDC0D62-849F-4AF9-A976-B1E6175513C7
+- categories: []
   cook_time: ''
   created: '2022-11-13 22:13:11'
   description: ''
@@ -3580,7 +4804,7 @@
   - Remove the peppers from the heat, and let cool.
   - Store, refrigerated, for up to 2 weeks. It tastes best at room temperature or
     warm.
-  image_url: images/recipes/BAF49E37-6D4D-4338-A96F-D686C8EE5A3C.jpg
+  image_url: https://static01.nyt.com/images/2018/06/17/magazine/17Eat3/17Eat3-articleLarge.jpg
   in_trash: false
   ingredients:
   - 1/4 cup extra-virgin olive oil
@@ -3632,7 +4856,7 @@
     scallions, and cilantro and toss to combine. Season to taste with salt and pepper.
     Serve immediately with lime wedges, or for better results, store overnight in
     a covered container in the refrigerator. Salad will keep for up to three days.
-  image_url: images/recipes/358A5895-4EDB-4835-9410-CDDE81993E8A.jpg
+  image_url: https://www.seriouseats.com/thmb/BjL9AvXUCoczz4gfiqyru3CaHxg=/880x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2014__10__20141013-chickpea-salad-bacon-celery-cumin-rajas-1-3ca35f0b12eb4d898aee1063f58de6a2.jpg
   in_trash: false
   ingredients:
   - 1/2 pound dried chickpeas (garbanzo beans), soaked overnight in cold salted water
@@ -3721,7 +4945,7 @@
     \ Cover with a lid and leave to steam for 10\u201315 minutes, or until the vegetables\
     \ are soft and cooked through."
   - Stir the garam masala through the curry and scatter with the remaining coriander.
-  image_url: images/recipes/9274598B-D7E4-4555-B4BD-A23A941A5554.jpg
+  image_url: https://ichef.bbci.co.uk/images/ic/832xn/p05dq9lb.jpg
   in_trash: false
   ingredients:
   - For the aloo baingan
@@ -3808,7 +5032,7 @@
     \ around 90 sec."
   - Put the greens on a plate and put the salmon on top. Juice the lemon (or pour
     lemon juice) over it. Serve.
-  image_url: images/recipes/7A852AFA-C1E2-4640-85A3-AA7CAE0D0D9C.jpg
+  image_url: null
   in_trash: false
   ingredients:
   - 6 oz salmon per person for generous serving
@@ -3825,8 +5049,7 @@
   nutritional_info: ''
   on_favorites: true
   on_grocery_list: false
-  photos:
-  - '1': images/recipes/7A852AFA-C1E2-4640-85A3-AA7CAE0D0D9C.jpg
+  photos: []
   prep_time: ''
   rating: 5
   scale: 1/1
@@ -3866,7 +5089,7 @@
   - Once cooled, either cover and refrigerate until ready to use or garnish and serve.
   - When ready to serve, garnish with pistachios and finely grate orange zest over
     top. Serve.
-  image_url: images/recipes/3461A53F-00B5-4DC0-B89F-1ADFF8250DC9.jpg
+  image_url: https://d3awvtnmmsvyot.cloudfront.net/api/file/DMsSk0RxSzqh9vKSRwSh/convert?w=1200&quality=90
   in_trash: false
   ingredients:
   - 3 Orange(s), divided
@@ -3915,17 +5138,17 @@
   - 1 onion, diced
   - 'Spices:'
   - 1 tsp not-very-hot chili powder
-  - 1/2 tsp salt (??)
+  - 3.6g salt
   is_pinned: false
   name: Home fries a la Pete's Grille
-  notes: ''
+  notes: 'Low cal version: 10g oil per 1 lb potatoes'
   nutritional_info: ''
   on_favorites: false
   on_grocery_list: false
   photos: []
   prep_time: ''
   rating: 0
-  scale: ''
+  scale: 1/1
   servings: ''
   source: ''
   source_url: ''
@@ -3970,6 +5193,77 @@
   total_time: ''
   uid: F15529E4-3C9D-4626-8C08-1CBE225171C6
 - categories: []
+  cook_time: 25 mins
+  created: '2023-08-07 19:11:00'
+  description: ''
+  difficulty: ''
+  directions:
+  - A
+  - Pan to 350F; when it gets to temp, add olive oil. Add the onions and cook, stirring
+    occasionally, until they are transluscent, about 3 minutes.
+  - Add the ground beef, and using a wooden spoon or spatula, break it apart into
+    crumbles and brown it until it's cooked through. When it's browned enough, lower
+    to 260F.
+  - If beef is fattier than 90%, pour off any excess fat.
+  - B
+  - Stir in the garlic powder, dried oregano, crushed red pepper flakes, tomato sauce,
+    lasagna noodles, and a pinch of salt and pepper.
+  - Add veggies if using.
+  - Bring it to a boil (set pan to 220F), cover the pan securely and cook it until
+    the noodles are soft, 18 to 20 minutes.
+  - C
+  - Remove the pan from the heat and stir in first component of Parmesan cheese. Top
+    the lasagna with dollops of the ricotta cheese and the remaining component Parmesan
+    cheese and serve.
+  - "To freeze the lasagna, portion the cooked, cooled lasagna into overnproof freezer\
+    \ containers and press plastic wrap onto the surface of the food. Wrap the containers\
+    \ well with foil and freeze them for up to 3 months. To serve, thaw the lasagna\
+    \ in the refrigerator overnight then remove the foil and plastic wrap. Re-cover\
+    \ the container with foil and bake it at 325\xB0F until it's heated through, 15\
+    \ to 20 minutes."
+  image_url: https://www.justataste.com/wp-content/uploads/2017/03/easy-skillet-lasagna-recipe.jpg
+  in_trash: false
+  ingredients:
+  - A1
+  - 1 Tablespoon olive oil
+  - 1/2 medium onion, chopped
+  - 1 1/2 lbs ground beef (90% lean)
+  - B1
+  - 1 teaspoon garlic powder
+  - 1/2 teaspoon dried oregano
+  - '1/8 teaspoon crushed red '
+  - pepper flakes
+  - B2
+  - 3 cans (4 cups) homemade or store-bought tomato sauce
+  - 8 lasagna noodles, broken into 2-inch pieces
+  - "1 lb veggies, saut\xE9ed (optional)"
+  - C1
+  - 1/2 cup grated Parmesan for mixing in
+  - C2
+  - 1/4 cup grated Parmesan for topping
+  - 1/2 cup ricotta cheese
+  is_pinned: false
+  name: Easy Skillet Lasagna by Kelly Senyei
+  notes: "Making a 2/3 recipe so I can put it in 4 Tupperwares\n\n2/3 recipe means\
+    \ 2x cans canned tomato sauce\n\nI saut\xE9ed 13 oz veggies\n\nGround beef browned\
+    \ at 350F, when browning stops, lower to 260F\n\n90% lean beef I didn't drain\n\
+    \nSimmer phase at 220F\n\nField Day canned tomato sauce in batch 1\n\nStirred\
+    \ in 1/2 cup microplane'd parmesan, 25g"
+  nutritional_info: 'Calories: 581kcal, Carbohydrates: 39g, Protein: 33g, Fat: 32g,
+    Saturated Fat: 13g, Cholesterol: 101mg, Sodium: 1143mg, Potassium: 986mg, Fiber:
+    3g, Sugar: 8g, Vitamin A: 920IU, Vitamin C: 12.1mg, Calcium: 235mg, Iron: 4.6mg'
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: 5 mins
+  rating: 0
+  scale: 1/1
+  servings: 6 servings
+  source: justataste.com
+  source_url: https://www.justataste.com/easy-skillet-lasagna-recipe/
+  total_time: ''
+  uid: F1EF1599-0FEE-43A6-8225-BD7CB6079A60
+- categories: []
   cook_time: ''
   created: '2022-10-05 23:23:23'
   description: ''
@@ -3987,7 +5281,7 @@
     to cover then by 1/2"; without enough water, the beans may cook unevenly and tend
     to stick to the bottom.
   - Season with salt, remove the epazote, and the beans are ready to serve.
-  image_url: images/recipes/01DB5E77-47F9-4F4B-ADD7-6AE19234DC6F.jpg
+  image_url: https://www.gourmetsleuth.com/images/default-source/recipes/default-image.gif?sfvrsn=56
   in_trash: false
   ingredients:
   - 13 ounces dry beans, pink, pinto, black or other variety
@@ -4004,7 +5298,7 @@
   photos: []
   prep_time: ''
   rating: 0
-  scale: 197/80
+  scale: 1/1
   servings: 5-6 cups
   source: gourmetsleuth.com
   source_url: https://www.gourmetsleuth.com/recipes/detail/frijoles-de-la-olla
@@ -4026,10 +5320,11 @@
     up a bit.
   - ' Now adjust the seasoning - getting the seasoning right is important or your
     soup will taste flat and uninteresting. '
+  - "If salt isn\u2019t working, try some vinegar and pepper"
   - Taste and add more salt if needed, the amount of salt you will need to add will
     depend on how salty your stock is (varying widely between brands, homemade, etc)...
   - Serve drizzled with a bit of olive oil and a generous dusting of cheese.
-  image_url: images/recipes/1F0EFF6C-C3F6-4E18-AF88-2116EC0E180C.jpg
+  image_url: https://images.101cookbooks.com/cabbage_soup_recipe.jpg?w=680&auto=format
   in_trash: false
   ingredients:
   - 1 tablespoon extra virgin olive oil
@@ -4088,15 +5383,17 @@
 - categories:
   - Battle Tested
   cook_time: 26 min
-  created: '2022-08-25 18:51:58'
+  created: '2022-08-25 20:51:58'
   description: ''
   difficulty: ''
   directions:
-  - Wash okra under running cold water; wipe dry with paper towels.
+  - Wash okra under running cold water, or soak. Wipe dry with paper towels, or use
+    salad spinner to dry.
   - Trim okra top & tails. Slice into 1/4 inch thick slices. Put in a bowl or leave
     on cutting board.
-  - Slit & seed chilis; also slice into 1/4 inch thick slices.
-  - Big pan to 400F. Let sizzle for 1 minute.
+  - Slice chilis in half, optionally removing seeds (we keep 'em). Slice into 1/4
+    inch thick slices or whatever shape & size.
+  - Big pan to 400F. Let sizzle for 1 minute. 4 min if bindi is frozen.
   - Cook at 270F uncovered for 20 min. Stir/flip every 5 minutes.
   - Pan to 350F; cook for 2 min, stirring as needed to brown not burn.
   - Sprinkle with salt & toss to coat evenly.
@@ -4105,20 +5402,128 @@
   ingredients:
   - 1 lb okra
   - 2 green chilies (optional)
-  - 3 tbsp light vegetable oil e.g. canola
+  - 2 tbsp light vegetable oil e.g. canola
   - 1/2 tsp salt
   is_pinned: false
   name: Bindi (Julie Sahni's Stir-fried okra)
-  notes: ''
+  notes: 'If you use ghee it is probably too powerful in flavor. Try decreasing by
+    2/3.
+
+
+    When we test the recipe, we find it''s best if a pan only holds 1/2 lb to avoid
+    crowding.
+
+
+    Salt needs to be measured.
+
+
+    I tried the bindi method for diced potatoes for home fries and 270F 40 min which
+    is a while'
   nutritional_info: ''
-  on_favorites: false
+  on_favorites: true
   on_grocery_list: false
   photos: []
   prep_time: 10 min
   rating: 0
-  scale: null
+  scale: 3/1
   servings: ''
   source: Classic Indian cooking by Sahni, Julie
   source_url: ''
   total_time: ''
   uid: F8ED1DDE-E149-4C30-8BEA-232B424FC8D5
+- categories: []
+  cook_time: 30 minutes
+  created: '2023-08-19 10:27:36'
+  description: ''
+  difficulty: ''
+  directions:
+  - "Preheat oven to 450\xB0F."
+  - Wash and cut tomatoes (cut in half for smaller apricot sized tomatoes, cut larger
+    tomatoes into quarters or eighths).
+  - Place tomatoes, garlic, onion, bell pepper, olive oil, salt, pepper and dried
+    herbs on a large pan.
+  - Roast 25 minutes, stirring after 15 minutes. Turn oven to broil and broil 3-4
+    minutes or until some of the tomatoes get a little bit of char color on them.
+  - Bring chicken broth to a boil, add tomatoes, and fresh herbs. Using a hand blender,
+    blend mixture until smooth and creamy. Add heavy cream if using.
+  - Top with parmesan cheese, croutons or a drizzle of heavy cream.
+  image_url: https://img.3lift.com/?width=800&height=450&url=%2F%2Fimages.3lift.com%2F18153169.jpg&logo_exclude=NW,NE,SE,SW&v=15
+  in_trash: false
+  ingredients:
+  - 1x 2x 3x
+  - 3 pounds fresh ripe tomatoes
+  - 4 cloves garlic peeled
+  - "\xBD onion diced"
+  - "\xBD red bell pepper diced"
+  - 2 tablespoons olive oil
+  - salt & pepper to taste
+  - "\xBD teaspoon dried basil"
+  - "\xBD teaspoon dried oregano"
+  - 2 cups chicken broth
+  - 2 tablespoons fresh herbs basil/parsley/oregano
+  - fresh basil & parsley for serving
+  - "\xBC cup parmesan cheese optional garnish"
+  - "\xBD cup heavy cream optional"
+  is_pinned: false
+  name: Homemade Tomato Soup (Fresh Tomatoes)
+  notes: ''
+  nutritional_info: 'Calories: 137 | Carbohydrates: 12g | Protein: 5g | Fat: 8g |
+    Saturated Fat: 1g | Cholesterol: 2mg | Sodium: 366mg | Potassium: 678mg | Fiber:
+    3g | Sugar: 7g | Vitamin A: 2230IU | Vitamin C: 50.9mg | Calcium: 100mg | Iron:
+    1.5mg'
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: 10 minutes
+  rating: 0
+  scale: null
+  servings: Servings 6 servings
+  source: spendwithpennies.com
+  source_url: https://www.spendwithpennies.com/fresh-tomato-soup/#wprm-recipe-container-138913
+  total_time: ''
+  uid: FC9580AA-2BF4-4A18-94DE-A6BAB12D8420
+- categories: []
+  cook_time: 15 minutes
+  created: '2023-01-03 22:55:12'
+  description: ''
+  difficulty: ''
+  directions:
+  - "In a large skillet over medium-high heat, heat the oil. Add the jalape\xF1os,\
+    \ garlic, ginger, and white scallion parts and cook, stirring, for 2 to 3 minutes,\
+    \ until fragrant."
+  - Stir in the eggplant and cook, tossing occasionally, for about 5 minutes, until
+    the eggplant has softened.
+  - Meanwhile, in a small bowl, combine the vinegar, soy sauce, cornstarch, and sugar.
+    Once eggplants have softened, pour the sauce into the pan and bring to a boil,
+    stirring to coat. Reduce the heat to medium-low and cook for 5 to 6 minutes, until
+    the sauce has thickened.
+  - Remove from the heat. Top with the green scallion parts. Transfer to a platter
+    or divide among plates
+  image_url: https://images.food52.com/WVdPaF9fi1AxhYBHMnjeJgtGHUg=/750x500/87b5b475-3d76-4ab2-a57d-733c342bb579--14711238508_1d7937cfe6_b.jpg
+  in_trash: false
+  ingredients:
+  - 2 tablespoons canola oil
+  - "1 to 2 jalape\xF1os, chopped"
+  - 3 garlic cloves, finely chopped
+  - 2 tablespoons peeled finely chopped ginger
+  - 3 large scallions, chopped, green and white parts separated
+  - 1 1/2 pounds Japanese eggplant, sliced into thin rounds
+  - 4 tablespoons rice wine vinegar
+  - 3 tablespoons soy sauce
+  - 1 tablespoon cornstarch
+  - 1 tablespoon sugar
+  is_pinned: false
+  name: Japanese Eggplant with Ginger & Scallions
+  notes: ''
+  nutritional_info: ''
+  on_favorites: false
+  on_grocery_list: false
+  photos: []
+  prep_time: 15 minutes
+  rating: 0
+  scale: null
+  servings: '4'
+  source: food52.com
+  source_url: https://food52.com/recipes/31268-japanese-eggplant-with-ginger-and-scallions
+  total_time: ''
+  uid: FD9130AC-2154-4963-9437-9019FC604DDD
